@@ -1,16 +1,14 @@
 set :application, "tutorial"
-
-set :repository, "git@github.com:miamiphp/mu.git"
-
-set :deploy_to, "/var/www/vhosts/speeduneed.com/subdomains/cap/httpdocs/"
+set :domain, 'webserver'
 
 set :scm, :git
+set :repository, "git@github.com:miamiphp/mu.git"
 
-ssh_options[:port] = 7822
-
-set :domain, 'webserver'
 set :deploy_via, :remote_cache
+
+server "cap.speeduneed.com", :app, :web, :db, :primary => true
+set :deploy_to, "/var/www/vhosts/speeduneed.com/subdomains/cap/httpdocs/"
+ssh_options[:port] = 2221
 set :user, "pkuger"
 set :runner, "root"
-server "cap.speeduneed.com", :app, :web, :db, :primary => true
 
