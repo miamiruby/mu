@@ -1,15 +1,16 @@
 set :application, "tutorial"
+
 set :repository, "git@github.com:miamiphp/mu.git"
+
 set :deploy_to, "/var/www/vhosts/speeduneed.com/subdomains/cap/httpdocs/"
+
 set :scm, :git
+
+ssh_options[:port] = 7822
+
 set :domain, 'webserver'
 set :deploy_via, :remote_cache
-ssh_optons[:paranoid] - false
 set :user, "pkuger"
 set :runner, "root"
 server "cap.speeduneed.com", :app, :web, :db, :primary => true
 
-task: update_config, => [:app] do
-	run "copy -Rf {$/shared_path}/config/* #/{release_path}/config/*"
-end
-after "deploy:update_code", :update_config
