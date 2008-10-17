@@ -1,0 +1,4 @@
+<?php
+	$path = '/your/path';
+	$includes = $path . 'includes/';
+?>
