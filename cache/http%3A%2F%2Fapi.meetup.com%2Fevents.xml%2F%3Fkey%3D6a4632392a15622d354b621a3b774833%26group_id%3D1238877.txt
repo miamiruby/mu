@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>0</count><lon /><method>Events</method><updated>Wed Dec 31 19:00:00 EST 1969</updated><link>http://api.meetup.com/events/</link><total_count>0</total_count><title>Meetup Events</title><lat /><next /><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=1238877&amp;page=200&amp;format=xml&amp;offset=0</url><id /><description>API method for accessing meetup events</description></head><items /></results>

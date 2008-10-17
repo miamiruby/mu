@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>1</count><lon /><total_count>1</total_count><id /><method>Events</method><updated>Mon Oct 13 13:45:49 EDT 2008</updated><title>Meetup Events</title><next /><lat /><link>http://api.meetup.com/events/</link><description>API method for accessing meetup events</description><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=597958&amp;page=200&amp;format=xml&amp;offset=0</url></head><items><item><lon>-80.12999725341797</lon><rsvpcount>6</rsvpcount><group_name>South Florida Artist Entrepreneurs Meetup Group</group_name><lat>26.1200008392334</lat><feecurrency>USD</feecurrency><time>Sat Oct 18 12:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://entrepreneur.meetup.com/1349/calendar/8643063</event_url><attendee_count>0</attendee_count><id>8643063</id><venue_lon /><fee>21.0</fee><venue_name /><venue_lat /><description>WHY YOU DIDN'T GET THE GRANT
+
+During a recession, public money and private foundation grants become more competitive. Artists who work with non-profit organizations, or who count on them as clients, need to become savvy if they hope to have their projects funded. Take some crucial tips from a grant panelist and learn from the mistakes others have made. Two mock proposals will be discussed.
+
+[i]"Participants in this meeting in October get a free CD-Rom with Resources for the Artist Entrepreneur. Developed in conjunction with visual artists and performers, this kit meets the needs for all artists starting a business."[/i]
+
+Because of the extent of the material presented, participants must RSVP in advance. 
+
+Maximum 30 participants
+Cost $21</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/1/a/global_1830282.jpeg</photo_url><updated>Mon Oct 13 13:45:49 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>October Meetup - Why You Didn't Get The Grant</name></item></items></results>

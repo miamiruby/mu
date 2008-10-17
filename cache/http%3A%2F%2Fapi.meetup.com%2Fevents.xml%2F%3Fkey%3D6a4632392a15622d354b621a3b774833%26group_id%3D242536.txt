@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>1</count><method>Events</method><updated>Wed Oct 01 17:05:55 EDT 2008</updated><id /><lat /><total_count>1</total_count><title>Meetup Events</title><lon /><link>http://api.meetup.com/events/</link><next /><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=242536&amp;page=200&amp;format=xml&amp;offset=0</url><description>API method for accessing meetup events</description></head><items><item><lon>-80.19000244140625</lon><rsvpcount>4</rsvpcount><group_name>Miami Ruby Brigade</group_name><lat>25.809999465942383</lat><feecurrency>USD</feecurrency><time>Mon Oct 20 19:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://ruby.meetup.com/71/calendar/8811755</event_url><attendee_count>0</attendee_count><id>8811755</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Please visit our new website at [url=http://miamirb.com]http://miamirb.com[/url] for more information.
+
+We're always looking for presentations on Ruby or related technologies. Please contact me if you would like to present.
+
+Addison-Wesley is providing a $200 discount for Ruby Group members. Just use code "PRJUSER"
+
+[url=http://www.voicesthatmatter.com/ruby2008/]http://www.voicesthatmatter.com/ruby2008/[/url]
+
+We will supply drinks and snacks. Bring your thirst for knowledge, Ruby and Rails code, questions and web apps to show off. After the meeting we can grab a beer at Soyka.
+
+5400 N Federal Hwy
+Miami, FL 33137
+
+Park in the Soyka parking lot, but come all the way down to the end. Tell the valet you are going to Todobebé so they don't try to park your car. Come up the silver spiral staircase to the red door.
+
+My cell phone number is 786-525-8970, just in case you need any last minute directions.
+
+Best Regards,
+Chris Saylor</description><photo_url>http://photos1.meetupstatic.com/photos/event/c/a/1/global_849233.jpeg</photo_url><updated>Wed Oct 01 17:05:55 EDT 2008</updated><feedesc /><questions /><name>Miami Ruby Brigade October Meetup</name></item></items></results>

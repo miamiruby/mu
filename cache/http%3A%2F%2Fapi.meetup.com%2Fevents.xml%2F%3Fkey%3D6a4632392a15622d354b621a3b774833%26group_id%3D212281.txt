@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>18</count><updated>Tue Oct 14 16:58:48 EDT 2008</updated><id /><total_count>18</total_count><link>http://api.meetup.com/events/</link><lon /><method>Events</method><title>Meetup Events</title><description>API method for accessing meetup events</description><next /><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=212281&amp;page=200&amp;format=xml&amp;offset=0</url><lat /></head><items><item><lon>-80.23999786376953</lon><rsvpcount>101</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Oct 18 16:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8789965</event_url><attendee_count>0</attendee_count><id>8789965</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Description
+Hey People yeah you asked for it, you wanted, you waited...and I just finished cleaning up from the last party from 3 months ago ...just 3 days ago! 
+Its time, hold on to your big girl panties it's RUDE T shirt four baby! BBQ starts at 4pm, bbq and party starts 9pm til 5am...handle it?
+
+Last party was a blast Rude tshirt party was such a request best, so we had Rude T2 120peeps, wow, then Rude T3 150 peeps, and that left the house from white tile to black. Then 4th of July (WOW! by the way). But now its Rude t shirt party4, and if you havnt been your missing out! Big Dave is ready cus he lives here, for now he has no choice (right Dave! wa wa) 
+
+[i]who can come?[/i] You can't but your moms invited! ok everyone with a sense of humor, and wants to BBQ, and have a blasT ITS no hold bared 
+
+[i]What to expect?[/i] Expect the unexpected! like priors we will have a gazebo outside with couches, hookah, and like 20 chairs, queen size bed for you hornies, tiki lights, a bon fire, thumpin music, guitar hero inside, rock band too, all day all night BBQ, floods of drinks and of course rude shirts galore must be worn go get them now! Everyone had one and no one had the same be crude damit!
+
+[i]What to bring?[/i] It couldnt have been the huge success in the past without you guys participation. heres what happen last year and what we need again oh and your rude shirt you can get by ordering now by googling rude t shirt 
+please list what youll bring we had steaks,roasts, london broils, chickens, sausages, salads, no cheap hotdogs will do for this party! NO CHIPS DONT B CHEAP half a pork, shrimps by the lbs, boils, raw veggies, diff fish, birng the best like $20 in food and at least a bottle of liquor or 18 pack of beer
+everyone is to bring stuff, I ask for no monies, Ill supply the beginning stuff like $300 worth, liquor, strippers(well maybe lol) please list what youll bring &amp; guests are welcome-ps I am seeking a roommate for Nov 1 if anybody knows anyone looking for $500 ...just a ps
+ # Lisa G
+    “ Tons of fun and great food. Thanks Jeff and Fred for staying at the grill in the rain!! ”
+    # Steve C
+    “ First time I've been to a party at Lance's place. Can't wait for the next one. ”
+    # Lesley
+    “ Had a fun time, great party, met nice people. ”
+    # FlaGal
+    “ Lance is an amazing host. There were tons of really great people there. ”
+    # Lisa
+    “ Great to see everyone. It was everything I expected &amp; more. Thx Lance. ”
+    # Maresa
+    thank you for hosting this party, it was alot of fun...i look forward to seeing you all again soon! :) ”
+    # Teresa (T-sa) (+2 guests)
+    “ Lance Always has great parties, but this time he out did himself...Thanks Sirlancealot...XOXOXO ”
+    # Fordee
+    “ Thanks Lance... great party!!! ”
+    # Terri
+    “ Wow! What a party, you really know how to throw one Lance! Thank you, Terri ”
+    # Katie
+    “ Had a great time at the BBQ!!! Enjoyed talking to all of the people that were there. ”
+    # Rhonda
+    “ Thanks for opening your home to everyone for such a fun party! You had it all from drinks to food to entertainment ...going all the time! ”
+    # Tamara
+    “ great job Lance. Kudos for hosting so many people in your home. ”
+    # Fausto
+    “ Great party, great people! I didnt get to know everyone, but it was a great party/environment. Not even the rain spoiled the night! ”
+    # Sonia
+    “ Had fun with rock band, my son and Big Dave. thanks Lance! ”
+    # Big Dave
+    “ Everybody pitched-in to make it a spectacular event. There was plenty of food, booze and mayhem to go around. Lance, thanks for being a great host and a great friend. Can't wait for the next one. ”
+    Striven Ivan
+    “ Great time and met some really cool friends. ”
+    # Beverly
+    “ Lance throws an awesome party! The fire out back was perfect for this chilly night and Lance you do have a comfy sofa! ”
+    # Viktoria &amp; Tamara
+    “ Another Great Party Lance, I had a BLAST! ”
+    B 
+    “ It was great that everybody got in the spirit of the rudeness and wore t-shirts, as well as not holding back on lewd and inappropriate comments! ”
+    ZION DIONYSUS
+    “ good time, thank you for all of us. ”
+   Ro
+    “ Thank you Lance for putting this together and sacrifice your place. So much cleaning to do afterwards.... ”
+    # Marc
+    “ We had a good time, we were told we made a good impression, in the sofa. LOL Good people, good time, we'll be back. Thank you Lance. ”
+    # Viktoria &amp; Tamara
+    “ What an awesome party! ”
+    # haidy
+    “ The BBQ was great!!! I really enjoyed to spend time with the group and everybody was very friendly. Thanks and looking forward for the next activity!!! ”
+    # B
+    “ I'm glad that the BBQ started early and was followed by the party, while still enjoying hours of food and fun. ”
+    # Orlando
+    “ Not crude but very ruuuuuuude LOL ”</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/6/8/c/global_5867772.jpeg</photo_url><updated>Tue Oct 14 14:51:03 EDT 2008</updated><feedesc /><questions /><name>Lance's BBQ and Rude T-Shirt Party</name></item><item><lon>-80.23999786376953</lon><rsvpcount>20</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Wed Oct 22 19:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8961532</event_url><attendee_count>0</attendee_count><id>8961532</id><venue_lon>-80.103874</venue_lon><fee>0.0</fee><venue_name>Cafe Bluefish</venue_name><venue_lat>26.136852</venue_lat><description>Come on out to a spectacular icebreaker dinner with SFYA again! We'll play a little game to get acquainted more. 
+
+[b]This event is perfect for first timers or shyer members![/b] 
+
+We'll meet at 7:30 at Cafe Bluefish by the beach! They offer great food, good drinks
+and an excellent atmosphere all combined with the perfect beach front dining experience at affordable prices!
+OH, and don't forget our fun ice breaker game... we will be playing that too.
+
+We're also going to have some drink specials just for our group. More details will be updated later! 
+[b]
+[color=darkred]A taste of Key West in the heart of Ft. Lauderdale Beach, Florida Citrus meets Caribbean Spices, Fresh Seafood, Steaks, Salads, Sandwiches, Burgers &amp; Great Daily Features even SKOT is going to like it![/color][/b]</description><photo_url>http://photos1.meetupstatic.com/photos/event/8/7/3/global_5876163.jpeg</photo_url><updated>Tue Oct 14 16:58:48 EDT 2008</updated><feedesc /><questions /><name>Icebreaker Dinner - Come On Out Meet With Other First Timers!</name></item><item><lon>-80.23999786376953</lon><rsvpcount>16</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Oct 25 08:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8922062</event_url><attendee_count>0</attendee_count><id>8922062</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>[b]Update: I'm going to hold a casting call on October 16th, 2008... please email me with your email address for the information. The casting call will be informal, held at a bar/grill starting at 7pm in North Miami. Decisions on talent will be made there.[/b]
+
+[b][color=red]For those of you reading this... the instructions clearly state to email me... I'm closing rsvp's, because I want you to email me please. I want to thank everyone for their interest... I will be selectively inviting a few more people who email me. So if you're interested, please feel free to email me! Thanks!!![/color][/b]
+
+Hey guys and gals...
+
+I'm in the National Film Challenge. If you haven't heard of it, you can read more about it at http://www.filmchallenge.org/
+
+I'm looking for a few aspiring actors and actresses for the shoot. Basically the national film challenge is like the 48 hour film challenge where you have a weekend to write, shoot and edit a short film.
+
+We will be meeting friday night for some pizza to brainstorm ideas for the short film. Then Saturday we will shoot all the scenes and sunday I will edit, add special effects and music to the film (to be mailed out Monday morning - per contest guidelines).
+
+You don not need experience acting... just a desire to act, the ability to follow directions and most importantly be reliable.
+
+By signing up yes, you are showing interest in this project and will be contacted by me to determine what potential character types you could play. Speak about any experience you may have and go over your availability. Depending on the script we write on Friday will determine how many actors/actresses we need... so by signing up yes this does not guarantee you a spot. However, the sooner we talk, the better your chances.
+
+Lastly, this is not a paid acting position, however, if we win or place high in the contest we will receive national distribution and some film screenings. You will have to sign a participation waiver to be in the film.
+
+If you have any questions, please shoot me a message!
+Ciao,
+-40</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/e/9/global_5794073.jpeg</photo_url><updated>Sat Oct 11 15:06:25 EDT 2008</updated><feedesc /><questions /><name>Wanna be in a movie??? Looking for Actors/Actresses!!!</name></item><item><lon>-80.23999786376953</lon><rsvpcount>66</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Oct 25 13:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/7877281</event_url><attendee_count>0</attendee_count><id>7877281</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>[center][b][color=red]Now taking prisoners for BUS #2[/color][/b][/center]
+
+[divider]
+
+
+[color=black][center][b]Come aboard and ride the "[u]Black Pearl Express[/u]" &amp; "[u]Queen Mary's Revenge[/u]"[/b][/center][/color]
+
+
+
+
+[center][b]Arrgh!! Pirates, Wenches and Scoundrels[/b][/center]
+ 
+
+We are planning our Epic Fantasy Fest Event at this time. You know people still talk about our 2007 Fantasy Fest Event ( especially the bus ride down) We have developed awesome relationships and created lifelong memories with people. In fact, there were a few that it was their first Meetup (now that's bravery)!!
+
+Now is the time to get onboard and prepare to walk the plank!
+
+[img]http://i90.photobucket.com/albums/k240/meghan_dancho/Fantasy%20Fest/P1010042.jpg[/img]
+
+For reasons a plenty we have decided to simplify the process and take the bus down to Fantasy Fest. We will have the same type of bus and the festivities will abound.
+
+[b]The bus ride:[/b]
+Last year we were able to take 55 meetup members from Tri-County Travel and SFYA. The bus left at 1:00pm on Saturday and dropped us off at 5pm on Duval street. We spent the day and night drinking our arses off and then boarded the bus at 3:00am for the ride back home.
+
+By popular demand, this year we are doing it again... if it ain't broke why fix it?!
+
+This year we will have a 2:00 PM departure and will meet at 1:30 PM for check-in's. 
+
+[b]Pick-up location:[/b] 
+Sheridan Street Tri-Rail Station
+2900 Sheridan Street 
+Hollywood, FL  33021
+
+ 
+
+[b]Directions[/b]
+I-95 to Sheridan Street, exit #21. West on Sheridan Street to North 29th Avenue (first traffic light). Turn left onto 29th Avenue and make immediate right into Station.
+
+[color=red][b]NOTE:[/b][/color] Although overnight parking is permitted, parking is at your own risk.
+
+
+
+[b][color=red]Payments:[/color][/b]
+Payments will be accepted by [b]PayPal Invoice[/b] ONLY!! [b][u]DO NOT[/u][/b] go to paypal directly and pay if you have not been invoiced. Since seating is limited invoicing will be our tracking method and seat count.
+
+COST: $55.00 per person (now booking second bus only)
+
+[b]Steps:[/b]
+[list=1]
+[*]Email Barbarella at barbiek11@yahoo.com - Subject line: Fantasy Fest
+[*]Be sure to provide the number of seats your are requesting with complete FIRST and LAST name of [b]EACH[/b] passenger.
+[*]Make sure to provide the email address you would like your PayPal invoice to be sent to. Also include cell phone numbers for all passengers. (Numbers will be used only for the day of the event in order to communicate with you if necessary. Your number will not be shared.)
+[*]Check your inbox as well as your spam box for invoice and follow the steps.
+[/list=1]
+
+
+[b]**ALL EMAILS REQUESTING A SEAT WILL BE RESPONDED TO ON A FIRST COME FIRST SERVE BASIS**[/b]
+
+[color=red][b]NOTE:[/b] 
+Invoice MUST be paid in full  within 72 hours in order to guarantee your seating and avoid cancellation. Invoice alone does not confirm your seat.[/color]
+
+[b]Refunds:[/b]
+There are NO refunds... NO exceptions.
+
+***If you have purchased a seat but cannot attend, you can sell your seat to another person so long as you provide Barbarella with the name of the person taking your place. Your name [b]MUST[/b] be on the check-in list in order to board the bus.
+
+We are working to include other groups in the fray so keep your eyes open for additional details.
+
+-------------------------------------------------------------------------------
+
+[b]Saturday, October 25
+[color=purple]
+CAPTAIN MORGAN FANTASY FEST PARADE[/b]
+
+Join 70,000 exuberant partygoers as this year's parade rolls down Duval Street. Featuring glittering floats, marching bands and dancing groups, it doesn't get any wilder than this! Parade route includes Whitehead, Front and Duval Streets; 7:00 pm - FREE [/color]
+
+[url=www.captainmorgan.com]www.captainmorgan.com[/url]
+
+
+[b][color=darkred]PLEASE NOTE: SFYA IS NOT LIABLE FOR ANY ACCIDENT OR DAMAGES CAUSED AT THE FANTASY FEST TRIP! THIS IS A PRIVATE TRIP ARRANGED BY BARBARA AND BIG DAVE. PLEASE MAKE SURE THAT YOU GET HOME SAFELY![/color][/b]</description><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Wed Sep 03 12:07:49 EDT 2008</updated><feedesc /><questions /><name>2nd Annual  Fantasy Fest Bus Charter</name></item><item><lon>-80.23999786376953</lon><rsvpcount>72</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Fri Oct 31 21:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8712981</event_url><attendee_count>0</attendee_count><id>8712981</id><venue_lon>-80.145690</venue_lon><fee>0.0</fee><venue_name>VooDoo Lounge</venue_name><venue_lat>26.121230</venue_lat><description>It's Halloween and its time to have a spooktacular time. Not only that, it's Friday night, so there is really no reason not to come out and PARTY with us!!
+
+[img]http://i71.photobucket.com/albums/i124/kapusiv/halloween1.gif[/img]
+
+[b][color=darkred]AMAZING SFYA DEAL:
+
+- The club normally opens at 10pm. They will be opening at 9pm, an entire hour early, JUST for our group. WOW
+- For a $10 cover charge at the door(a $10 savings over the regular $20 cover charge everyone else will be paying for Halloween), we will be getting:[/color]
+[b]OPEN BAR ON ALL WELL, CALL AND BEER DRINKS from 9-10pm. 
+From 10pm-1am the venue is offering us $5 U-call-it drinks.
+
+Best of all, there is a back room at the end of the main room which will be made PRIVATE to our group only until 1a.m. This means you will need our special wristband to be in this area. 
+This is what I call some serious VIP treatment.[/b][/b]
+
+**SO plan your night accordingly, get dressed in your funnest/hottest costumes and join us for a screamy, scary Halloween party.  **
+
+"The Voodoo Lounge, Ft. Lauderdale's newest upscale nightclub is located at 111 S.W. 2nd Ave. (Moffat St.) in the same building that once housed the infamous Independence Brewery. Opening on March 2nd of 2000 to a record crowd, The Voodoo Lounge has been going strong for over 8 years now and shows no signs of stopping. With nearly 10,000 square feet of space, it is without a doubt one of Ft. Lauderdale's largest nightclubs"
+
+[img]http://www.voodooloungeflorida.com/images/pictures/sm_voodoofront.jpg[/img]
+
+In the upcoming days we will update this further as to what you are required to bring. You might need a flyer or possibly just to say you are with SFYA. We will let you know.
+
+SEE YOU ALL THERE!!!
+[img]http://i71.photobucket.com/albums/i124/kapusiv/halloween3.gif[/img]</description><photo_url>http://photos1.meetupstatic.com/photos/event/6/0/0/global_5875536.jpeg</photo_url><updated>Tue Oct 14 15:48:05 EDT 2008</updated><feedesc /><questions /><name>Halloween in VOODOO Lounge! FREE DRINKS, VIP treatment and Costume Party</name></item><item><lon>-80.23999786376953</lon><rsvpcount>0</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Nov 01 00:00:00 EDT 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/7971090</event_url><attendee_count>0</attendee_count><id>7971090</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Bank Atlantic Center</description><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Mon May 19 20:01:45 EDT 2008</updated><feedesc /><questions /><name>New Kids On The Block Concert</name></item><item><lon>-80.23999786376953</lon><rsvpcount>21</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Nov 01 19:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8778521</event_url><attendee_count>0</attendee_count><id>8778521</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>We have such a great time and good turnout for this event every time we do it, so we're doing it again!
+
+This month we're going to have it at my new place, again. I live on the Boca/Delray line. The exact address and directions will be sent via email two days before the event.
+
+[divider]
+I have [b][color=royalblue]Taboo, Apples-to-Apples and Yahtzee[/color][/b], so if anyone has any of the following games please state in your comments that you'll be bringing it:
+
+
+[color=darkblue]Are You Smarter than the 5th Grade[/color]
+[color=green]Cranium (new version: black box)[/color]
+[color=orangered]Game of Things[/color]
+[color=teal]Moment of Truth[/color] 
+[color=firebrick]Scattegories[/color]
+[color=blue]The Office (dvd game)[/color]
+[color=olive]Scrabble [/color]
+-------------------
+
+[color=firebrick]LCR Dice Game - taken[/color]
+[color=indigo]Family Feud - taken[/color]
+[color=chocolate]Catch Phrase - taken[/color]
+[color=purple]Dirty Minds - taken[/color]
+[color=orangered]Trivia Pursuit - taken[/color]
+[color=blue]Dominoes - taken[/color]
+[color=olive]Monopoly - taken[/color]
+
+
+If there's something else not on the list and you'd like to play it, PLEASE BRING IT!!
+[divider]
+
+Everyone should bring something to eat and whatever you want to drink. Please put in your RSVP what you're bringing so everyone doesn't show up with the same thing. And, please Do NOT bring chips or salsa - that is taken care of.
+
+I will only send the address to those that RSVP "yes" for the event. So be sure to sign up before it fills up and if you RSVP "yes" and change your mind, please update your RSVP so someone can take your place.
+
+We always have several new members attend and this is a GREAT event to come as a 1st timer, so I hope to see even more this time! The old members can come and have a GREAT time too.
+
+[:D]
+
+[color=purple]To see the photos of the last "board game night," please [url=http://nightlife.meetup.com/151/photos/454629/]click here[/url]![/color]
+
+[b]Please take note:[/b]
+[color=firebrick]For those who smoke, you will ONLY be allowed to smoke by the table near the elevator and deposit  your butts in the ashtray over there (that is the assigned designated area by the Association I live at). You will not be allowed to smoke on my patio. Sorry for the inconvenience.[/color]
+
+Thank you,
+SFYA Asst Organizer, sgi
+
+P.S. Please make sure you add info@meetup.com to your address book, so you'll receive the email/s I send out for this event. If you do not receive them, I cannot be responsible for you not getting the information at the right time. Please step up and do your part.  Thank you!</description><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Sun Oct 12 16:36:38 EDT 2008</updated><feedesc /><questions /><name>Board game Night - Boca area</name></item><item><lon>-80.23999786376953</lon><rsvpcount>6</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency /><time>Sun Nov 02 18:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8923464</event_url><attendee_count>0</attendee_count><id>8923464</id><venue_lon>-80.144396</venue_lon><fee>0.0</fee><venue_name>Off the Hookah</venue_name><venue_lat>26.117783</venue_lat><description>coming soon, details to follow.</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/7/5/4/global_5795972.jpeg</photo_url><updated>Wed Oct 08 13:58:33 EDT 2008</updated><feedesc /><questions /><name>Waterfront Cookout- BBQ, Drinks and fun....</name></item><item><lon>-80.23999786376953</lon><rsvpcount>0</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Fri Nov 07 00:00:00 EST 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8585780</event_url><attendee_count>0</attendee_count><id>8585780</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Wed Aug 20 15:41:09 EDT 2008</updated><feedesc /><questions /><name>november event 1</name></item><item><lon>-80.23999786376953</lon><rsvpcount>13</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Nov 08 12:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8790943</event_url><attendee_count>0</attendee_count><id>8790943</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Organizer: [url=http://nightlife.meetup.com/151/members/3014217/]BRI[/url] 
+Last year we had a great time so lets do it again.
+[img]http://i21.tinypic.com/ezsdl.jpg[/img]
+Anyone who knows the [url=http://www.sandfestival.com/]Sand Sculpting Festival[/url] knows that the Beach can transformed into something beautiful, something magical, something comical or something whimsical. But no matter what, it is always amazing. Masters of the craft and amateurs alike join to create what is one of the most popular events held on [url=http://www.sandfestival.com/]Fort Myers Beach[/url].
+
+Year after year, approximately 65,000 spectators continue to be in awe of the creations that are formed simply by combining water and the sugar fine white sand from our spectacular beach. Many of the Masters believe that [url=http://www.sandfestival.com/]Fort Myers Beach[/url] sand is the best in the world for events like this, and they look forward to returning each year to participate. 
+[img]http://www.sandfestival.com/gallery/sm_LifeGuardRescue1-Framed.jpg[/img][img]http://www.sandfestival.com/gallery/sm_Pirates1-framed.jpg[/img][img]http://www.sandfestival.com/gallery/sm_Michelscastleanddragon1-framed.jpg[/img] [img]http://www.sandfestival.com/gallery/sm_Mt.Olympus1-Framed.jpg[/img] 
+
+Lets meet at 9ish and Car Pool. The drive will be about 1 1/2 to 2 hrs.
+Lets enjoy the day and watch the beautiful sunset at 5:45pm at one of the most beautiful beaches on the Gulf of Mexico. Bring your beach attire, sunscreen, snacks, water, etc.. 
+As the day proceeds we find a location to get some food and beverages. 
+
+Parking information and location:
+The official parking for the event will be at the [url=http://local.google.com/local?f=q&amp;hl=en&amp;q=26.39289818760,-81.86787295540&amp;ie=UTF8&amp;ll=26.3931,-81.868057&amp;spn=0.949665,1.016235&amp;z=10&amp;iwloc=addr&amp;om=1]North Field of Carl Johnson's Boat Ramp at Lovers' Key State Park.[/url]. 
+
+There, a bus will shuttle visitors to and from the event site from 9 am to 6pm on Saturday and Sunday. The parking and shuttle are free to event goers. Please watch for the parking signs . 
+
+
+[url=http://maps.google.com/maps?client=safari&amp;rls=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;um=1&amp;q=holiday+inn&amp;near=Fort+Myers+Beach,+FL&amp;fb=1&amp;cid=0,0,4849181710185774034&amp;sa=X&amp;oi=local_result&amp;resnum=1&amp;ct=image]Map to Holiday Inn Fort Myers Beach[/url]
+
+More information to follow as we get closer to date.
+Please email [url=http://nightlife.meetup.com/151/members/3014217/]BRI[/url] if you have any questions.</description><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Fri Sep 19 22:34:29 EDT 2008</updated><feedesc /><questions /><name>21st Annual Sand Sculpting Festival--Fort Myers Beach</name></item><item><lon>-80.23999786376953</lon><rsvpcount>2</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Nov 08 20:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8855661</event_url><attendee_count>0</attendee_count><id>8855661</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>***IMPORTANT TO READ BEFORE RSVP'ING.***
+
+Fordee has held a few of these in the past and I thought they'd be a great idea to start up again, now that I have my own place with some room ha ha. However, there are a few rules, so please read the following points.
+
+[b]REQUIREMENT'S:[/b]
+1) You must bring a home-cooked dish. If you come with something store bought you will not gain admittance to the soiree. Home-cooked does not mean you have to cook yourself, a friend, a family member, a hire-chef can cook it... but don't bring store brought stuff. The fun in the event is trying everyone's culinary talents.
+
+2) Please bring some type of beverage. If you drink alcohol bring alcohol. If you drink soda, bring soda. Water will be provided along with some type of non-alcoholic drink, but I encourage you to bring your favorite beverage.
+
+3) No maybe RSVP's... please wait to RSVP until you're 100%. And please don't flake this event is limited.
+
+4) Please come on time, we are a group of well-mannered individuals who would like to eat together. ;)
+
+5) Please update your RSVP with your dish the week of the event if not sooner.
+
+--------------------------------------------------------------------------------------------
+
+[b]Q&amp;A:[/b]
+[color=darkblue]Q) What do I do if I can't cook? Can I still come to enjoy everyone else's food?[/color]
+A) Not to be an ass, but this isn't the event for you.
+
+[color=darkblue]Q) How big a dish should I make?[/color]
+A) Nothing too crazy... figure 12 people to be there, or there about. Also keep in mind you're not trying to fill anyone up with your dish. As there will be 11 other dishes! ;)
+
+[color=darkblue]Q) I get off work at 11pm, can I come then?[/color]
+A) Simple answer is no. But, I may make an exception if you have come to a previous tapa's party and proven yourself. ;)
+
+[color=darkblue]Q) Do I need to bring silverware or plates?[/color]
+A) No, I will provide plastic utensils and paper plate. 
+
+[color=darkblue]Q) Can I bring a guest?[/color]
+A) No, please have them register and sign-up themselves. Thanks!
+
+--------------------------------------------------------------------------------------------
+
+[b]TAPA'S DEFINITION:[/b] 
+ta·pa (tä'pä) n. - pl. ta·pas (-päs, -päz) 
+Any of various small, savory Spanish dishes, often served as a snack or with other tapas as a meal.
+
+[b]ADDITIONAL INFO:[/b]
+Be sure to bring your personality; as stories, jokes, current events, and other conversations will be the true fare for the evening. As this event is focused on food, drinks and conversation your timely arrival will be greatly appreciated.
+
+I've probably outlined req's for this event more than other events I've posted... but I want to make sure it's fun for everyone who participates.
+
+Please don't let the requirements or the Q&amp;A discourage you if you haven't been to one of Fordee's Tapa's parties before ... they always fill up, and are always a blast... ask around!!!
+
+I'll send out the address 2 days before the event to the yes rsvp's. I live on the Boca/Delray line. 
+
+Got questions? [url=http://nightlife.meetup.com/151/members/2502537/]Email me[/url].
+
+SFYA Asst Organizer, sgi</description><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Mon Oct 13 16:32:52 EDT 2008</updated><feedesc /><questions /><name>The Original Tapa's Party II</name></item><item><lon>-80.23999786376953</lon><rsvpcount>5</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Fri Nov 14 20:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8366631</event_url><attendee_count>0</attendee_count><id>8366631</id><venue_lon>-80.189560</venue_lon><fee>0.0</fee><venue_name>Bicentennial Park</venue_name><venue_lat>25.784643</venue_lat><description>[b]DO NOT MISS IT!!! BUY YOUR TICKETS NOW!! THEY HAVE LESS THAN 200 seats available for November 14 at the Premium seat. It's a pre sale  [b]only[/b] for members of Cirque du Soleil Club...if you are not, become member is free , and you'll have the opportunity to buy the tickets before everybody else.[/b]  
+  http://www.cirquedusoleil.com/CirqueDuSoleil/en/showstickets/corteo/intro/intro.htm
+
+We'll probably won't be able to seat together since you need to go online and buy your ticket.  
+However, we can carpool or  meet up there, and after  the venue we'll finish the night at the  hottest place in Miami Beach.  
+
+
+TICKETS  
+                      Adults         Children 2-12 Students 13+ with ID            Seniors 65+   
+Tapis Rouge $215.00                 $150.50                                                  N/A   
+Premium       $125.00                   $87.50                                               $112.50   
+Level 1           $90.00                   $63.00                                                  $81.00   
+Level 2           $80.00                   $56.00                                                  $72.00   
+Level 3           $55.00                   $38.50                                                  $49.50   
+
+Corteo, which means "cortege" in Italian, is a joyous procession, a festive parade imagined by a clown. The show brings together the passion of the actor with the grace and power of the acrobat to plunge the audience into a theatrical world of fun, comedy and spontaneity situated in a mysterious space between heaven and earth.  
+
+The clown pictures his own funeral taking place in a carnival atmosphere, watched over by quietly caring angels. Juxtaposing the large with the small, the ridiculous with the tragic and the magic of perfection with the charm of imperfection, the show highlights the strength and fragility of the clown, as well as his wisdom and kindness, to illustrate the portion of humanity that is within each of us. The music, by turns lyrical and playful, carries Corteo through a timeless celebration in which illusion teases reality.  
+
+
+More Information as we get closer to the venue.  
+
+Guy Laliberté   
+Guide and Founder   
+
+
+
+Guy Laliberté was born in Quebec City in 1959. An accordion player, stiltwalker and fire-eater, this daring visionary founded Quebec's first internationally renowned circus. With the help of a small band of kindred spirits, Laliberté recognized and groomed the talents of the street entertainers from the Fête foraine de Baie-Saint-Paul and created Cirque du Soleil in 1984.  
+   
+Already a multitalented artist, Guy Laliberté quickly dove into the business world to plan and maintain the growth of the young company. Despite the group's lack of experience, he managed to convince financial institutions to back the project, winning them over with the originality and audacity of youth. He also developed a network of partners around the world to help Cirque du Soleil make a name for itself abroad.  
+   
+Guy Laliberté was the first to orchestrate the marriage of cultures and artistic and acrobatic disciplines that is the hallmark of Cirque du Soleil. Since 1984, he has guided the creative team through the creation of every show and contributed to elevating the circus arts to the level of the great artistic disciplines.   
+   
+Thanks to its founder's vision and talent for bringing people together, Cirque du Soleil has become an international organization, as much in terms of its makeup as in the scope of its activities and influence. Guy Laliberté now heads an organization with activities on five continents.  
+   
+In 2007, Guy Laliberté received the Ernst &amp;amp; Young Entrepreneur of the Year award for all three levels: Quebec, Canada and international. In 2004, he received the Order of Canada, the highest distinction in the country, from the Governor General of Canada.  The same year, he was recognized by Time Magazine as one of the 100 most influential people in the world. In 2003, he was honoured by the Condé Nast group as part of the Never Follow Program, a tribute to creators and innovators. In 2001, he was named a Great Montrealer by the Académie des Grands Montréalais. In 1997, Guy Laliberté received the Ordre National du Québec, the highest distinction awarded by the Government of Quebec</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/0/c/d/global_4834301.jpeg</photo_url><updated>Sat Jul 19 15:54:20 EDT 2008</updated><feedesc /><questions /><name>CIRQUE DU SOLEIL- CORTEO</name></item><item><lon>-80.23999786376953</lon><rsvpcount>0</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Nov 15 00:00:00 EST 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8585784</event_url><attendee_count>0</attendee_count><id>8585784</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Wed Aug 20 15:41:32 EDT 2008</updated><feedesc /><questions /><name>november event 2</name></item><item><lon>-80.23999786376953</lon><rsvpcount>0</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Thu Nov 20 19:30:00 EST 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8712971</event_url><attendee_count>0</attendee_count><id>8712971</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Mon Sep 08 08:10:48 EDT 2008</updated><feedesc /><questions /><name>Icebreaker Dinner</name></item><item><lon>-80.23999786376953</lon><rsvpcount>0</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Fri Nov 21 00:00:00 EST 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8585785</event_url><attendee_count>0</attendee_count><id>8585785</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Wed Aug 20 15:41:40 EDT 2008</updated><feedesc /><questions /><name>november event 3</name></item><item><lon>-80.23999786376953</lon><rsvpcount>4</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Thu Nov 27 12:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8899417</event_url><attendee_count>0</attendee_count><id>8899417</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>[img]http://www.logosportswear.com/embroideryclipart/Thanksgiving%20Turkey.CD101706KS.jpg[/img]
+Everyone is invited to Thanksgiving dinner at my place on Thanksgiving Day. We will eat about 2:00 but you are welcome to come as early as 12:00 and stay until about 9:00.
+
+I thought there might be a lot of people that don't have family in the area or would prefer to hang out with your SFYA family instead.
+
+[color=sienna][b]I will provide turkey, mashed potatoes, gravy and cranberry sauce (in a can)[/b]. It would be FuN for everyone to bring a side dish you'd normally have with your family:[/color]
+[color=sienna]
+Green Bean Caserole
+Pumpkin Pie
+Squash Pie
+Sweet Potato Pie (Candied Yams)
+Bread Stuffing
+Corn Bread
+Applesauce
+and ...
+Cranberry Salad
+[/color]
+[color=sienna]are some examples of what you might want to bring ....[/color]
+
+[b]Just be sure to RSVP by Nov 20th so I'll have enough food ready for everyone.[/b]
+
+If you don't want to eat, you are welcome to come over, hang out, watch football, have a drink, play some cards, or just take up space. My goal is to have a fun and relaxing day with good food and great friends (new and old).
+
+This event is limited to [u]30[/u] people (including guests) so sign up early if you want to be included! Please don't sign up unless you intend to come and please change your RSVP if you're not coming!
+
+If you cannot RSVP for the exact amount of your party, please [url=http://nightlife.meetup.com/151/members/2502537/]send me an email[/url].
+
+Exact address and directions [u]after[/u] November 20th to all who signed up. It's on the Boca/Delray line.
+
+SFYA Asst Organizer, sgi</description><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Sun Oct 12 20:27:18 EDT 2008</updated><feedesc /><questions /><name>Thanksgiving Dinner</name></item><item><lon>-80.23999786376953</lon><rsvpcount>0</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Sat Nov 29 00:00:00 EST 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8585787</event_url><attendee_count>0</attendee_count><id>8585787</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Wed Aug 20 15:41:46 EDT 2008</updated><feedesc /><questions /><name>novemeber event 4</name></item><item><lon>-80.23999786376953</lon><rsvpcount>0</rsvpcount><group_name>The Largest group in Florida; SFYA</group_name><lat>26.09000015258789</lat><feecurrency>USD</feecurrency><time>Fri Dec 05 00:00:00 EST 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/151/calendar/8585813</event_url><attendee_count>0</attendee_count><id>8585813</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/d/5/a/global_3963418.jpeg</photo_url><updated>Wed Aug 20 15:44:34 EDT 2008</updated><feedesc /><questions /><name>event 1</name></item></items></results>

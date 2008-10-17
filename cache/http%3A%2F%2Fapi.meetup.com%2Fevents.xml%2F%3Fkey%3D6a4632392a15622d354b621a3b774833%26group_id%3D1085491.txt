@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>1</count><lon /><total_count>1</total_count><id /><method>Events</method><updated>Thu Oct 09 17:40:01 EDT 2008</updated><title>Meetup Events</title><next /><lat /><link>http://api.meetup.com/events/</link><description>API method for accessing meetup events</description><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=1085491&amp;page=200&amp;format=xml&amp;offset=0</url></head><items><item><lon>-80.27999877929688</lon><rsvpcount>3</rsvpcount><group_name>Adwords Web Marketing Group of Broward/South Florida/Miami</group_name><lat>26.18000030517578</lat><feecurrency>USD</feecurrency><time>Tue Nov 04 19:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://google.meetup.com/54/calendar/8918476</event_url><attendee_count>0</attendee_count><id>8918476</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Our November meeting will be all about what happens AFTER they click.
+
+OH YES. things happen after google has charged you the $3 for your click. Now it's time to show the customer that's COST YOU MONEY, how to give you MORE money back.
+
+What are the tricks you can use to convince the customer to buy from you.
+
+How can you convince your customer that the page he or she is looking at is specifically designed for them. 
+
+What can you do on your store to get more SHOPPERS and less LOOKERS.
+
+If you're offering an Affiliate product... How do you convince them to buy the product you're trying to promote? And how can you drop the "affiliate cookie" so you'll get the credit EVEN if they buy from someone else.
+
+How do you convince them to buy from you, and to stop looking after they clicked on you.
+
+As always we'll have all the presentations and links we'll be talking about at http://www.adwordshowto.com/meetings</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/b/8/global_3634024.jpeg</photo_url><updated>Thu Oct 09 17:40:01 EDT 2008</updated><feedesc /><questions /><name>Adwords Web Marketing Group of Broward/South Florida/Miami November Meetup</name></item></items></results>

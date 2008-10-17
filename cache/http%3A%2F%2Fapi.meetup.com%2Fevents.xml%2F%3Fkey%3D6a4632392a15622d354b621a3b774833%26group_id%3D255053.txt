@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>6</count><lat /><total_count>6</total_count><id /><lon /><description>API method for accessing meetup events</description><title>Meetup Events</title><link>http://api.meetup.com/events/</link><method>Events</method><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=255053&amp;page=200&amp;format=xml&amp;offset=0</url><updated>Mon Oct 13 15:28:14 EDT 2008</updated><next /></head><items><item><lon>-80.41000366210938</lon><rsvpcount>3</rsvpcount><group_name>MangAnime Depot</group_name><lat>25.65999984741211</lat><feecurrency /><time>Wed Oct 15 19:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://anime.meetup.com/504/calendar/8951621</event_url><attendee_count>0</attendee_count><id>8951621</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>I dare anyone to cosplay this...</description><photo_url>http://photos1.meetupstatic.com/photos/event/2/9/global_4650041.jpeg</photo_url><updated>Mon Oct 13 05:38:42 EDT 2008</updated><feedesc /><questions /><name>Death Note II: The Last Name</name></item><item><lon>-80.41000366210938</lon><rsvpcount>1</rsvpcount><group_name>MangAnime Depot</group_name><lat>25.65999984741211</lat><feecurrency /><time>Thu Oct 16 19:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://anime.meetup.com/504/calendar/8951625</event_url><attendee_count>0</attendee_count><id>8951625</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>For those of you who missed Wednesday...</description><photo_url>http://photos1.meetupstatic.com/photos/event/2/9/global_4650041.jpeg</photo_url><updated>Mon Oct 13 05:45:40 EDT 2008</updated><feedesc /><questions /><name>Death Note II: The Last Name</name></item><item><lon>-80.41000366210938</lon><rsvpcount>7</rsvpcount><group_name>MangAnime Depot</group_name><lat>25.65999984741211</lat><feecurrency /><time>Sat Oct 18 16:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://anime.meetup.com/504/calendar/8870852</event_url><attendee_count>0</attendee_count><id>8870852</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/2/9/global_4650041.jpeg</photo_url><updated>Wed Oct 01 06:51:38 EDT 2008</updated><feedesc /><questions /><name>Day at Noobies!</name></item><item><lon>-80.41000366210938</lon><rsvpcount>12</rsvpcount><group_name>MangAnime Depot</group_name><lat>25.65999984741211</lat><feecurrency>USD</feecurrency><time>Fri Oct 31 10:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://anime.meetup.com/504/calendar/8409457</event_url><attendee_count>0</attendee_count><id>8409457</id><venue_lon>-80.189041</venue_lon><fee>0.0</fee><venue_name>Hilton Downtown Miami</venue_name><venue_lat>25.790549</venue_lat><description>Anime Super Con is back! 
+
+
+http://www.animesupercon.com/
+
+Look for me at:
+
+6:30 PM - Japanese School Panel: Real fun and informative last time. Remember to ask about the air conditioning.
+
+7:00 PM - Halloween Town: Anime Trick or Treat...YES!!!
+
+8:30 PM - What Happens at the Con, Stays at the Con: Don't we know it. That's unless we're embarrassing each other, of course.
+
+9:30 PM - Dirty Mind: I. Will. Win.
+
+10:00 PM - Pool Party: Bikini/Pool Cosplay Costume Contest. Yay!
+
+11:00 PM - Rave: Because it ain't a con without one.
+
+12:00 AM - Hentai @ Midnight: And it isn't me.</description><photo_url>http://photos1.meetupstatic.com/photos/event/2/9/global_4650041.jpeg</photo_url><updated>Mon Oct 13 15:00:15 EDT 2008</updated><feedesc /><questions /><name>Anime Super Con 3</name></item><item><lon>-80.41000366210938</lon><rsvpcount>7</rsvpcount><group_name>MangAnime Depot</group_name><lat>25.65999984741211</lat><feecurrency>USD</feecurrency><time>Sat Nov 01 19:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://anime.meetup.com/504/calendar/8870849</event_url><attendee_count>0</attendee_count><id>8870849</id><venue_lon>-80.189041</venue_lon><fee>0.0</fee><venue_name>Hilton Downtown Miami</venue_name><venue_lat>25.790549</venue_lat><description>A lot depends on how last night went.
+
+Look for me at:
+
+11:00 AM - R U Otaku: There's etiquette at a convention? Really??
+
+11:30 AM - Sleeping Samurai Tournament: Because foam beatings are what cons are all about.
+
+12:00 PM - Otaku High Ultimate Trivia Tour: Cheaters never win, but we get darned close.
+
+12.45 PM - The Ultimate Aqua Teen Hunger Force Experience: Last year, they had the audience booing itself.
+
+4:30 PM - Anime Outtakes: How does a cartoon forget his lines?
+
+4:45 PM - Dana Snyder presents: Supercon's Untitled English Gonzo Game and Talk Show: This'll be fun. It was Rock Band last year.
+
+8:00 PM - Costume Competition: The first post-Bankai
+
+9:15 PM - Super Live Action Hyper Extreme Smash Brother 3000 Super Show: The Return of Princess Peach!
+
+11:30 PM - Naughty Japan: The panels are SO much better this year.</description><photo_url>http://photos1.meetupstatic.com/photos/event/2/9/global_4650041.jpeg</photo_url><updated>Mon Oct 13 15:18:10 EDT 2008</updated><feedesc /><questions /><name>Anime Super Con 3</name></item><item><lon>-80.41000366210938</lon><rsvpcount>6</rsvpcount><group_name>MangAnime Depot</group_name><lat>25.65999984741211</lat><feecurrency>USD</feecurrency><time>Sun Nov 02 19:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://anime.meetup.com/504/calendar/8870851</event_url><attendee_count>0</attendee_count><id>8870851</id><venue_lon>-80.189041</venue_lon><fee>0.0</fee><venue_name>Hilton Downtown Miami</venue_name><venue_lat>25.790549</venue_lat><description>I feel a rough morning coming on...
+
+Look for me at: 
+
+12:00 PM - The Cultural Differences Between Chinese and Japanese: I'm just there for Wendy. Screw the topic.
+
+12:45 PM - How to Beat Anyone at Any Fighter Title: Because losing sucks. Trust me, I know.
+
+What else I stay for depends on the Dolphins' fortunes against the Ravens. Go Fins! (sniff)</description><photo_url>http://photos1.meetupstatic.com/photos/event/2/9/global_4650041.jpeg</photo_url><updated>Mon Oct 13 15:28:14 EDT 2008</updated><feedesc /><questions /><name>Anime Super Con 3</name></item></items></results>

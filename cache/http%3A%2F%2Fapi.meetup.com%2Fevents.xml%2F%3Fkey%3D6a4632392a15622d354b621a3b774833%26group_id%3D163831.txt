@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>3</count><description>API method for accessing meetup events</description><total_count>3</total_count><id /><lon /><title>Meetup Events</title><next /><link>http://api.meetup.com/events/</link><method>Events</method><lat /><updated>Sun Sep 28 18:41:19 EDT 2008</updated><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=163831&amp;page=200&amp;format=xml&amp;offset=0</url></head><items><item><lon>-80.08999633789062</lon><rsvpcount>6</rsvpcount><group_name>WebPro100 - South Florida Web Professionals</group_name><lat>26.350000381469727</lat><feecurrency>USD</feecurrency><time>Tue Oct 21 19:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://webdesign.meetup.com/456/calendar/8834372</event_url><attendee_count>0</attendee_count><id>8834372</id><venue_lon /><fee>3.0</fee><venue_name /><venue_lat /><description>[center]General Membership Meeting - Topic: "Keyword Advertising!"[/center]
+ 
+All members are invited to attend. We will begin with round-robin introductions where you can introduce yourself to your fellow members and tell them what you do. Then we will devote the rest of the meeting to a group discussion of a single topic -- tonight's topic is "Keyword Advertising!"   Be prepared to exchange ideas and strategies on this topic!
+
+Bring your business cards to network with other members! The food here is really good too!</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/2/5/c/global_1840700.jpeg</photo_url><updated>Sun Sep 28 18:41:19 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>General Membership Meeting - Topic: "Keyword Advertising!"</name></item><item><lon>-80.08999633789062</lon><rsvpcount>7</rsvpcount><group_name>WebPro100 - South Florida Web Professionals</group_name><lat>26.350000381469727</lat><feecurrency>USD</feecurrency><time>Thu Oct 30 19:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://webdesign.meetup.com/456/calendar/8834039</event_url><attendee_count>0</attendee_count><id>8834039</id><venue_lon /><fee>12.0</fee><venue_name /><venue_lat /><description>Presenter: Peter Capazzi
+
+Topic: Advanced MySQL - PHP Seminar
+
+Description: Last year, Peter's "Intro to MySQL" seminar was one of our most popular for the developer members of our group. Many members have asked for a seminar that goes beyond the basics that Peter covered so well last time, so we are pleased to bring Peter back for a more intermediate level presentation of the subject matter!
+
+I will be updating this event with a more detailed description from Peter of exactly what he will cover, but mark the date on your calendar and sign up now!
+
+Since it's the night before Halloween, feel free to attend in costume!! Let's make this both fun and educational!!
+
+Location: This event will be held at DMAC on Federal Hwy. in Boca Raton. (See address above). The facility is state-of-the-art, with Apple computers and projection facilities. You can park behind the building, at the bank parking lot next door, or across the street.
+
+Please RSVP if you wish to attend. Seating is limited so do not sign up if you do not show up. By signing up, when this event fills up you are taking a seat that someone else who wanted to attend will not be able to have. I understand your plans may change -- if they do, then have the courtesy to also change your RSVP so others may take your place.</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/2/5/c/global_1840700.jpeg</photo_url><updated>Thu Sep 25 18:22:21 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Advanced PHP- MySQL Seminar</name></item><item><lon>-80.08999633789062</lon><rsvpcount>3</rsvpcount><group_name>WebPro100 - South Florida Web Professionals</group_name><lat>26.350000381469727</lat><feecurrency>USD</feecurrency><time>Mon Dec 08 13:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://webdesign.meetup.com/456/calendar/8834608</event_url><attendee_count>0</attendee_count><id>8834608</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>[b]Cruise to the Bahamas![/b]&lt;P&gt;
+Please read everything very carefully, all details!
+
+
+             Dec 8-12, 2008  *  $139 * 4 nights / 3 Days  *  Includes meals!  *  GREAT DEAL!!
+Destinations:
+*  Nassau, Bahamas
+*  Cococay (Cruiseline's Private Island)
+*  Key West, Florida
+
+ 
+
+The ship name is Majesty of the Seas
+
+Thanks to a dazzling, top to bottom renovation, the popular Majesty of the Seas is more majestic than ever. Bahamas bound guests will enjoy a newly remodeled pool deck, expanded Day Spa &amp; Fitness Center, plus tastefully refurbished staterooms, featuring luxurious bedding and eye-popping flat-screen TVs and more. And of course, there's still the Bahamas powdery beaches and crystal clear water to look forward to. 
+
+
+Ship Highlights 
+Rock-climbing wall 
+Johnny Rockets '50's-style restaurant 
+Sorrento's Pizza 
+Latté-tudesSM coffee house featuring Seattle's Best Coffee® 
+Casino RoyaleSM 
+Themed bars and lounges including Boleros Latin lounge 
+2 whirlpools 
+2 outdoor pools 
+Adventure Ocean® youth facilities, including teen-only areas, Fuel and Living Room 
+Day Spa and Fitness Center 
+Open-air basketball court 
+
+**********************************
+
+Itinerary Map 
+Whether you're looking for exciting water sports or a relaxing day on the beach, you'll find it all in the Bahamas. Located just north of the islands in the Caribbean, these islands boast brilliant blue waters as well as magnificent landscapes and scenic views.
+
+The price in September was $139 + taxes which about $31 -  this is only for FLORIDA RESIDENTS WITH VALID FLORIDA ID. If you're not a resident the price is slightly. These prices are per person with 2 people staying in each room. The single-occupancy rate is higher so get a roommate to get this LOW price! Prices fluctuate daily so place your reservation with the cruise line ASAP!The deposit is $100.
+
+I know this is too much for some or too early to decide, but think of it as adventure and you'll have a great time with a great group of people!
+
+In the price included: Shipboard accommodations, ocean transportation, most meals, some beverages and most onboard entertainment. 
+
+Not Included: Air transportation**; transfers**; items of a personal nature, such as shore &amp; land excursions**, specialty restaurant fees, some beverages, photographs, gratuities/service fees, medical services, etc. 
+** You can add these during or after the reservation process.
+
+If you're an U.S. citizen you won't need a passport just your original birth certificate and photo ID to come to this trip with us. If you're a citizen BUT not U.S. born you will need a passport!!! If you're a permanent resident, you will need your passport and your permanent resident card with you. If you're on visa, you will need to check with the Bahama consulate and see if your country requires visa to enter the country but still need passport.
+
+********************************************* 
+BOOKING INFO 
+*********************************************
+
+If you decided you want to come, call Royal Caribbean: 1-800-859-7225 and use reference number: ______ which helps them to place us together and seat us together at the table. For more details, go to www.rccreservations.com/DESTINATIONS/BAHAMAS.html.</description><photo_url>http://photos1.meetupstatic.com/photos/event/d/d/global_5646221.jpeg</photo_url><updated>Thu Sep 25 20:49:19 EDT 2008</updated><feedesc /><questions /><name>Cruise to the Bahamas!</name></item></items></results>

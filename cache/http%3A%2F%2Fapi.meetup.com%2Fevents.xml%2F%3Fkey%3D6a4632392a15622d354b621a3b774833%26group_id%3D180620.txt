@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>5</count><updated>Sat Oct 11 12:07:20 EDT 2008</updated><id /><total_count>5</total_count><link>http://api.meetup.com/events/</link><lon /><method>Events</method><title>Meetup Events</title><description>API method for accessing meetup events</description><next /><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=180620&amp;page=200&amp;format=xml&amp;offset=0</url><lat /></head><items><item><lon>-80.19000244140625</lon><rsvpcount>3</rsvpcount><group_name>Miami Web Development Meetup</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Oct 18 14:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://fsf.meetup.com/28/calendar/8750947</event_url><attendee_count>0</attendee_count><id>8750947</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>This is a new weekly Saturday afternoon meet-up that is oriented in bringing a deeper level of understanding between all new open source web technologies and how they interact to deliver quality services and products in Data Center / Colocation Server environments. I will be sharing my own personal development techniques and interested in exchanging techniques with other developers who use open source software. We are also asking that graphic designers, Copywriters, and Network Consultants to attend. This will be a great way to help build your team, understand the technologies and know the players in our local market.
+
+Bring your project, Bring your Ideas, Start a project, Expect to learn and meet new people...
+
+We will have a projector and a screen as well a great view.
+
+Bring a laptop and a sample of your work graphics and your code if you have some.
+
+Languages we will cover: 
+Ruby, PHP, Python, Perl, ASP, Coldfusion, Actionscripting, Silverlight, Expect, TCL, C++, Flex, Javascript.
+
+Concepts we want to demo: Web 2.0, MVC, Proceedural Programming, Scripts, Linking Campaigns, Email Marking, Content Creation, Mashups.
+
+Technologies we will cover: New Technologies, Rails, Django, CakePHP, Typo, Joomla, Mojavi, PHP MVC, Mambo, SugarCRM, Ajax, Wordpress, Typepad, Symphony. 
+
+Operation Systems we will compare: 
+Linux: Gentoo, Red Hat, Centos 
+BSD, OSX(Tiger &amp; Leopard)
+
+Networking Appliances we will demo: Cisco Routers, Cisco PIX Firewalls, Cisco Switches, Asterisk, VOIP PBX, Watchguard, SNORT IDS / IPS (Intrusion Detection / Prevention), Clustering, Load Balancing, and more.
+
+Web Hosting Platforms we will explain: Plesk, Cpanel, Ensim and more...
+
+Business Discussions to discuss: Building and Developing products and services, consulting, marketing, SEO and PPC, equipment, software licencing and more.
+
+Our Schedule: 
+2pm to 5:30pm - Meeting in the conference room 
+Located on 14th floor Conference room
+
+5:30pm - After Party Dinner at Bayside(We will vote on which place to eat!) 
+8:00pm - Optional Movie or Show
+
+
+Please call one of the following numbers if having trouble locating the building. 
+Paul Kruger @ 561-213-3854
+
+(Bring a notebook and a friend) 
+Come expecting to share your knowledge with others and expect the same exchange in return. 
+
+Also if interested we will be having a data center tour weekly. The data centers has agreed to sponsor our group and ofter training on how to use linux and or setup servers network devices and services for anyone who needs the help during the saturday meetings.
+
+Please email me if you need any additional information 
+Paul Kruger 
+pkruger@speeduneed.com 
+Paul Kruger @ 561-213-3854 
+PHP Developer
+
+We are looking for speakers to talk about: 
+1. Building social networks &amp; Communities: (PHP, Ruby, Java, Cold Fusion) 
+2. Selling Services 
+3. Creative Thinking &amp; Conceptualizing web products 
+4. Usability Reviews 
+5. Resume Building 
+6. Put your info here 
+7. Creating new applications and services 
+8. Team Building</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/3/9/global_4917897.jpeg</photo_url><updated>Sat Sep 13 15:07:44 EDT 2008</updated><feedesc /><questions /><name>Miami Web Development Meetup</name></item><item><lon>-80.19000244140625</lon><rsvpcount>1</rsvpcount><group_name>Miami Web Development Meetup</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Oct 25 14:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://fsf.meetup.com/28/calendar/8797565</event_url><attendee_count>0</attendee_count><id>8797565</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>This is a new weekly Saturday afternoon meet-up that is oriented in bringing a deeper level of understanding between all new open source web technologies and how they interact to deliver quality services and products in Data Center / Colocation Server environments. I will be sharing my own personal development techniques and interested in exchanging techniques with other developers who use open source software. We are also asking that graphic designers, Copywriters, and Network Consultants to attend. This will be a great way to help build your team, understand the technologies and know the players in our local market.
+
+Bring your project, Bring your Ideas, Start a project, Expect to learn and meet new people...
+
+We will have a projector and a screen as well a great view.
+
+Bring a laptop and a sample of your work graphics and your code if you have some.
+
+Languages we will cover: 
+Ruby, PHP, Python, Perl, ASP, Coldfusion, Actionscripting, Silverlight, Expect, TCL, C++, Flex, Javascript.
+
+Concepts we want to demo: Web 2.0, MVC, Proceedural Programming, Scripts, Linking Campaigns, Email Marking, Content Creation, Mashups.
+
+Technologies we will cover: New Technologies, Rails, Django, CakePHP, Typo, Joomla, Mojavi, PHP MVC, Mambo, SugarCRM, Ajax, Wordpress, Typepad, Symphony. 
+
+Operation Systems we will compare: 
+Linux: Gentoo, Red Hat, Centos 
+BSD, OSX(Tiger &amp; Leopard)
+
+Networking Appliances we will demo: Cisco Routers, Cisco PIX Firewalls, Cisco Switches, Asterisk, VOIP PBX, Watchguard, SNORT IDS / IPS (Intrusion Detection / Prevention), Clustering, Load Balancing, and more.
+
+Web Hosting Platforms we will explain: Plesk, Cpanel, Ensim and more...
+
+Business Discussions to discuss: Building and Developing products and services, consulting, marketing, SEO and PPC, equipment, software licencing and more.
+
+Our Schedule: 
+2pm to 5:30pm - Meeting in the conference room 
+Located on 14th floor Conference room
+
+5:30pm - After Party Dinner at Bayside(We will vote on which place to eat!) 
+8:00pm - Optional Movie or Show
+
+
+Please call one of the following numbers if having trouble locating the building. 
+Paul Kruger @ 561-213-3854
+
+(Bring a notebook and a friend) 
+Come expecting to share your knowledge with others and expect the same exchange in return. 
+
+Also if interested we will be having a data center tour weekly. The data centers has agreed to sponsor our group and ofter training on how to use linux and or setup servers network devices and services for anyone who needs the help during the saturday meetings.
+
+Please email me if you need any additional information 
+Paul Kruger 
+pkruger@speeduneed.com 
+Paul Kruger @ 561-213-3854 
+PHP Developer
+
+We are looking for speakers to talk about: 
+1. Building social networks &amp; Communities: (PHP, Ruby, Java, Cold Fusion) 
+2. Selling Services 
+3. Creative Thinking &amp; Conceptualizing web products 
+4. Usability Reviews 
+5. Resume Building 
+6. Put your info here 
+7. Creating new applications and services 
+8. Team Building</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/3/9/global_4917897.jpeg</photo_url><updated>Sat Sep 20 15:08:00 EDT 2008</updated><feedesc /><questions /><name>Miami Web Development Meetup</name></item><item><lon>-80.19000244140625</lon><rsvpcount>0</rsvpcount><group_name>Miami Web Development Meetup</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Nov 01 14:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://fsf.meetup.com/28/calendar/8845854</event_url><attendee_count>0</attendee_count><id>8845854</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>This is a new weekly Saturday afternoon meet-up that is oriented in bringing a deeper level of understanding between all new open source web technologies and how they interact to deliver quality services and products in Data Center / Colocation Server environments. I will be sharing my own personal development techniques and interested in exchanging techniques with other developers who use open source software. We are also asking that graphic designers, Copywriters, and Network Consultants to attend. This will be a great way to help build your team, understand the technologies and know the players in our local market.
+
+Bring your project, Bring your Ideas, Start a project, Expect to learn and meet new people...
+
+We will have a projector and a screen as well a great view.
+
+Bring a laptop and a sample of your work graphics and your code if you have some.
+
+Languages we will cover: 
+Ruby, PHP, Python, Perl, ASP, Coldfusion, Actionscripting, Silverlight, Expect, TCL, C++, Flex, Javascript.
+
+Concepts we want to demo: Web 2.0, MVC, Proceedural Programming, Scripts, Linking Campaigns, Email Marking, Content Creation, Mashups.
+
+Technologies we will cover: New Technologies, Rails, Django, CakePHP, Typo, Joomla, Mojavi, PHP MVC, Mambo, SugarCRM, Ajax, Wordpress, Typepad, Symphony. 
+
+Operation Systems we will compare: 
+Linux: Gentoo, Red Hat, Centos 
+BSD, OSX(Tiger &amp; Leopard)
+
+Networking Appliances we will demo: Cisco Routers, Cisco PIX Firewalls, Cisco Switches, Asterisk, VOIP PBX, Watchguard, SNORT IDS / IPS (Intrusion Detection / Prevention), Clustering, Load Balancing, and more.
+
+Web Hosting Platforms we will explain: Plesk, Cpanel, Ensim and more...
+
+Business Discussions to discuss: Building and Developing products and services, consulting, marketing, SEO and PPC, equipment, software licencing and more.
+
+Our Schedule: 
+2pm to 5:30pm - Meeting in the conference room 
+Located on 14th floor Conference room
+
+5:30pm - After Party Dinner at Bayside(We will vote on which place to eat!) 
+8:00pm - Optional Movie or Show
+
+
+Please call one of the following numbers if having trouble locating the building. 
+Paul Kruger @ 561-213-3854
+
+(Bring a notebook and a friend) 
+Come expecting to share your knowledge with others and expect the same exchange in return. 
+
+Also if interested we will be having a data center tour weekly. The data centers has agreed to sponsor our group and ofter training on how to use linux and or setup servers network devices and services for anyone who needs the help during the saturday meetings.
+
+Please email me if you need any additional information 
+Paul Kruger 
+pkruger@speeduneed.com 
+Paul Kruger @ 561-213-3854 
+PHP Developer
+
+We are looking for speakers to talk about: 
+1. Building social networks &amp; Communities: (PHP, Ruby, Java, Cold Fusion) 
+2. Selling Services 
+3. Creative Thinking &amp; Conceptualizing web products 
+4. Usability Reviews 
+5. Resume Building 
+6. Put your info here 
+7. Creating new applications and services 
+8. Team Building</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/3/9/global_4917897.jpeg</photo_url><updated>Sat Sep 27 15:12:48 EDT 2008</updated><feedesc /><questions /><name>Miami Web Development Meetup</name></item><item><lon>-80.19000244140625</lon><rsvpcount>0</rsvpcount><group_name>Miami Web Development Meetup</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Nov 08 14:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://fsf.meetup.com/28/calendar/8896480</event_url><attendee_count>0</attendee_count><id>8896480</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>This is a new weekly Saturday afternoon meet-up that is oriented in bringing a deeper level of understanding between all new open source web technologies and how they interact to deliver quality services and products in Data Center / Colocation Server environments. I will be sharing my own personal development techniques and interested in exchanging techniques with other developers who use open source software. We are also asking that graphic designers, Copywriters, and Network Consultants to attend. This will be a great way to help build your team, understand the technologies and know the players in our local market.
+
+Bring your project, Bring your Ideas, Start a project, Expect to learn and meet new people...
+
+We will have a projector and a screen as well a great view.
+
+Bring a laptop and a sample of your work graphics and your code if you have some.
+
+Languages we will cover: 
+Ruby, PHP, Python, Perl, ASP, Coldfusion, Actionscripting, Silverlight, Expect, TCL, C++, Flex, Javascript.
+
+Concepts we want to demo: Web 2.0, MVC, Proceedural Programming, Scripts, Linking Campaigns, Email Marking, Content Creation, Mashups.
+
+Technologies we will cover: New Technologies, Rails, Django, CakePHP, Typo, Joomla, Mojavi, PHP MVC, Mambo, SugarCRM, Ajax, Wordpress, Typepad, Symphony. 
+
+Operation Systems we will compare: 
+Linux: Gentoo, Red Hat, Centos 
+BSD, OSX(Tiger &amp; Leopard)
+
+Networking Appliances we will demo: Cisco Routers, Cisco PIX Firewalls, Cisco Switches, Asterisk, VOIP PBX, Watchguard, SNORT IDS / IPS (Intrusion Detection / Prevention), Clustering, Load Balancing, and more.
+
+Web Hosting Platforms we will explain: Plesk, Cpanel, Ensim and more...
+
+Business Discussions to discuss: Building and Developing products and services, consulting, marketing, SEO and PPC, equipment, software licencing and more.
+
+Our Schedule: 
+2pm to 5:30pm - Meeting in the conference room 
+Located on 14th floor Conference room
+
+5:30pm - After Party Dinner at Bayside(We will vote on which place to eat!) 
+8:00pm - Optional Movie or Show
+
+
+Please call one of the following numbers if having trouble locating the building. 
+Paul Kruger @ 561-213-3854
+
+(Bring a notebook and a friend) 
+Come expecting to share your knowledge with others and expect the same exchange in return. 
+
+Also if interested we will be having a data center tour weekly. The data centers has agreed to sponsor our group and ofter training on how to use linux and or setup servers network devices and services for anyone who needs the help during the saturday meetings.
+
+Please email me if you need any additional information 
+Paul Kruger 
+pkruger@speeduneed.com 
+Paul Kruger @ 561-213-3854 
+PHP Developer
+
+We are looking for speakers to talk about: 
+1. Building social networks &amp; Communities: (PHP, Ruby, Java, Cold Fusion) 
+2. Selling Services 
+3. Creative Thinking &amp; Conceptualizing web products 
+4. Usability Reviews 
+5. Resume Building 
+6. Put your info here 
+7. Creating new applications and services 
+8. Team Building</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/3/9/global_4917897.jpeg</photo_url><updated>Sat Oct 04 15:08:26 EDT 2008</updated><feedesc /><questions /><name>Miami Web Development Meetup</name></item><item><lon>-80.19000244140625</lon><rsvpcount>0</rsvpcount><group_name>Miami Web Development Meetup</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Nov 15 14:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://fsf.meetup.com/28/calendar/8942478</event_url><attendee_count>0</attendee_count><id>8942478</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>This is a new weekly Saturday afternoon meet-up that is oriented in bringing a deeper level of understanding between all new open source web technologies and how they interact to deliver quality services and products in Data Center / Colocation Server environments. I will be sharing my own personal development techniques and interested in exchanging techniques with other developers who use open source software. We are also asking that graphic designers, Copywriters, and Network Consultants to attend. This will be a great way to help build your team, understand the technologies and know the players in our local market.
+
+Bring your project, Bring your Ideas, Start a project, Expect to learn and meet new people...
+
+We will have a projector and a screen as well a great view.
+
+Bring a laptop and a sample of your work graphics and your code if you have some.
+
+Languages we will cover: 
+Ruby, PHP, Python, Perl, ASP, Coldfusion, Actionscripting, Silverlight, Expect, TCL, C++, Flex, Javascript.
+
+Concepts we want to demo: Web 2.0, MVC, Proceedural Programming, Scripts, Linking Campaigns, Email Marking, Content Creation, Mashups.
+
+Technologies we will cover: New Technologies, Rails, Django, CakePHP, Typo, Joomla, Mojavi, PHP MVC, Mambo, SugarCRM, Ajax, Wordpress, Typepad, Symphony. 
+
+Operation Systems we will compare: 
+Linux: Gentoo, Red Hat, Centos 
+BSD, OSX(Tiger &amp; Leopard)
+
+Networking Appliances we will demo: Cisco Routers, Cisco PIX Firewalls, Cisco Switches, Asterisk, VOIP PBX, Watchguard, SNORT IDS / IPS (Intrusion Detection / Prevention), Clustering, Load Balancing, and more.
+
+Web Hosting Platforms we will explain: Plesk, Cpanel, Ensim and more...
+
+Business Discussions to discuss: Building and Developing products and services, consulting, marketing, SEO and PPC, equipment, software licencing and more.
+
+Our Schedule: 
+2pm to 5:30pm - Meeting in the conference room 
+Located on 14th floor Conference room
+
+5:30pm - After Party Dinner at Bayside(We will vote on which place to eat!) 
+8:00pm - Optional Movie or Show
+
+
+Please call one of the following numbers if having trouble locating the building. 
+Paul Kruger @ 561-213-3854
+
+(Bring a notebook and a friend) 
+Come expecting to share your knowledge with others and expect the same exchange in return. 
+
+Also if interested we will be having a data center tour weekly. The data centers has agreed to sponsor our group and ofter training on how to use linux and or setup servers network devices and services for anyone who needs the help during the saturday meetings.
+
+Please email me if you need any additional information 
+Paul Kruger 
+pkruger@speeduneed.com 
+Paul Kruger @ 561-213-3854 
+PHP Developer
+
+We are looking for speakers to talk about: 
+1. Building social networks &amp; Communities: (PHP, Ruby, Java, Cold Fusion) 
+2. Selling Services 
+3. Creative Thinking &amp; Conceptualizing web products 
+4. Usability Reviews 
+5. Resume Building 
+6. Put your info here 
+7. Creating new applications and services 
+8. Team Building</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/3/9/global_4917897.jpeg</photo_url><updated>Sat Oct 11 12:07:20 EDT 2008</updated><feedesc /><questions /><name>Miami Web Development Meetup</name></item></items></results>

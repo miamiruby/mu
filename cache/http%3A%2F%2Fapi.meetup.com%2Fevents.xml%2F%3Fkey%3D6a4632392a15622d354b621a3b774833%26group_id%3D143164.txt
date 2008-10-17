@@ -1,0 +1,3 @@
+<oops><problem>Rate limit exceeded</problem><details>
+    Please wait a while and try again a little later.
+    </details></oops>

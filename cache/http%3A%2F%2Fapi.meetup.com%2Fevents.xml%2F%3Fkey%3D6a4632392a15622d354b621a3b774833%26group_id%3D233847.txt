@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>3</count><lat /><total_count>3</total_count><id /><lon /><description>API method for accessing meetup events</description><title>Meetup Events</title><link>http://api.meetup.com/events/</link><method>Events</method><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=233847&amp;page=200&amp;format=xml&amp;offset=0</url><updated>Tue Oct 14 09:34:44 EDT 2008</updated><next /></head><items><item><lon>-80.30000305175781</lon><rsvpcount>0</rsvpcount><group_name>Out &amp; About Miami</group_name><lat>25.700000762939453</lat><feecurrency>USD</feecurrency><time>Sat Oct 18 22:00:00 EDT 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/208/calendar/8900492</event_url><attendee_count>0</attendee_count><id>8900492</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/1/9/b/global_3306411.jpeg</photo_url><updated>Sun Oct 05 11:55:07 EDT 2008</updated><feedesc /><questions /><name>News Lounge Coming Up</name></item><item><lon>-80.30000305175781</lon><rsvpcount>14</rsvpcount><group_name>Out &amp; About Miami</group_name><lat>25.700000762939453</lat><feecurrency /><time>Sat Oct 18 22:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://nightlife.meetup.com/208/calendar/8959170</event_url><attendee_count>0</attendee_count><id>8959170</id><venue_lon>-80.187843</venue_lon><fee>0.0</fee><venue_name>The News</venue_name><venue_lat>25.826117</venue_lat><description>We came upon this place the night of our Gallery Walk meetup and we all loved it so I decided to try it out. Here is what other people are saying:
+
+" I love this lounge... It is the perfect place to unwind after a long work day - and even if you don't need to unwind - it's still perfect :-)
+The atmosphere is cool, not rowdy; no college kids, young professionals. The service is pretty good, and the drinks are good as well - I tried one of their signature drinks, the Cucumber Martini - excellent - highly recomend it. 
+
+The food is also pretty good - I had the greek salad, it was delicious; my husband ordered the prociuto w/brie, it comes served on french bread and it was really, really, really good too :-)
+
+The seating is very loungy, comfy, and cute. The have couches, bar tables, sofas, and swings :-)
+
+If you sit outside, you're likely to have a fan somewhere near you keeping the climate cool, and inside the a/c is on for your enjoyment.
+
+Only down note - the bathrooms are FREEZING - but not enough to take away a star. Just avoid them if you get cold easily (or bring a parka). "
+
+Let's meetup at ten, hang out and enjoy the music. If less than 10 people rsvp yes then the event will be postponed. The event will be cancelled if the weather is too crazy.
+
+
+
+I will send a reminder out on friday.</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/9/b/global_3306411.jpeg</photo_url><updated>Tue Oct 14 09:34:44 EDT 2008</updated><feedesc /><questions /><name>The News Bar and Lounge</name></item><item><lon>-80.30000305175781</lon><rsvpcount>0</rsvpcount><group_name>Out &amp; About Miami</group_name><lat>25.700000762939453</lat><feecurrency>USD</feecurrency><time>Sat Nov 01 00:00:00 EDT 2008</time><ismeetup>0</ismeetup><event_url>http://nightlife.meetup.com/208/calendar/8900497</event_url><attendee_count>0</attendee_count><id>8900497</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description /><photo_url>http://photos1.meetupstatic.com/photos/event/1/9/b/global_3306411.jpeg</photo_url><updated>Sun Oct 05 11:56:09 EDT 2008</updated><feedesc /><questions /><name>Frighten Miami at Soho Lounge..Can't Miss! More Details coming soon!</name></item></items></results>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>1</count><lat /><total_count>1</total_count><id /><lon /><description>API method for accessing meetup events</description><title>Meetup Events</title><link>http://api.meetup.com/events/</link><method>Events</method><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=1298065&amp;page=200&amp;format=xml&amp;offset=0</url><updated>Thu Oct 09 07:31:44 EDT 2008</updated><next /></head><items><item><lon>-80.08999633789062</lon><rsvpcount>29</rsvpcount><group_name>South Florida WordPress Meetup Group</group_name><lat>26.229999542236328</lat><feecurrency>USD</feecurrency><time>Tue Nov 11 19:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://wordpress.meetup.com/189/calendar/8928987</event_url><attendee_count>0</attendee_count><id>8928987</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>WELCOME EVERYONE !!!!
+
+Please join us for this WordPress Meet-up Kickoff, everyone is invited no matter your connection to WordPRess, developers, marketers, writers and bloggers will all find something of value tonight..
+
+This will be the first of many meetings focusing on the worlds most popular blog platform; Wordpress.   Tonights meeting will be a chance for everyone to meet each other and get an idea of who does what. To help this along I created a short little optional poll to do when you sign up for this meeting. 
+
+Additionally, I will be doing a basic presentation on "Using Wordpress as a Content Management System". Discussing how to move beyond just a blog and have full featured site powered by WordPress. This includes Lead Gen, Content publishing, eCommerce and much more ...
+
+Look forward to seeing everyone.</description><photo_url>http://photos1.meetupstatic.com/photos/event/5/8/d/global_5803421.jpeg</photo_url><updated>Thu Oct 09 07:31:44 EDT 2008</updated><feedesc /><questions /><name>SF WordPress Users Inagural Meetup and "WordPress as a CMS"</name></item></items></results>

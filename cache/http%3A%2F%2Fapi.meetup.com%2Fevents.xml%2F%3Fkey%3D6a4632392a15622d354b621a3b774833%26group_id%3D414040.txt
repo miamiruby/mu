@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>1</count><lon /><total_count>1</total_count><id /><method>Events</method><updated>Tue Sep 30 15:59:04 EDT 2008</updated><title>Meetup Events</title><next /><lat /><link>http://api.meetup.com/events/</link><description>API method for accessing meetup events</description><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=414040&amp;page=200&amp;format=xml&amp;offset=0</url></head><items><item><lon>-80.2699966430664</lon><rsvpcount>23</rsvpcount><group_name>South Florida Creative Meetup  (Web, Print and Marketing)</group_name><lat>26.110000610351562</lat><feecurrency>USD</feecurrency><time>Fri Oct 24 19:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://graphicdesign.meetup.com/472/calendar/8841904</event_url><attendee_count>0</attendee_count><id>8841904</id><venue_lon>-80.095989</venue_lon><fee>0.0</fee><venue_name>Damon's </venue_name><venue_lat>26.196214</venue_lat><description>Our speaker this month will be Alex Costa. He will be speaking to us about Drupal and how best to theme a web site. He will be showing off some of his work and some best practices. 
+
+As usual, we will be talking about what's happening in the South Florida creative market so bring some work to show off or even your portfolio or resume for some contructive feedback. 
+
+The best costume will win a prize too :-) 
+
+Mark</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/2/2/5/global_5632645.jpeg</photo_url><updated>Tue Sep 30 15:59:04 EDT 2008</updated><feedesc /><questions /><name>South Florida Creative Meetup  (Web, Print and Marketing) October Meetup</name></item></items></results>

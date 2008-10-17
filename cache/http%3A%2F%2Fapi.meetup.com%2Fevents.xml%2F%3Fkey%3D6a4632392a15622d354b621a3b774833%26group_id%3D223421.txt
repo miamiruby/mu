@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>9</count><description>API method for accessing meetup events</description><id /><link>http://api.meetup.com/events/</link><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=223421&amp;page=200&amp;format=xml&amp;offset=0</url><method>Events</method><title>Meetup Events</title><total_count>9</total_count><lat /><next /><updated>Sat Oct 04 11:09:01 EDT 2008</updated><lon /></head><items><item><lon>-80.30999755859375</lon><rsvpcount>5</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Thu Oct 16 17:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8844215</event_url><attendee_count>0</attendee_count><id>8844215</id><venue_lon /><fee>10.0</fee><venue_name /><venue_lat /><description>[b]Join us for Networking at the Beautiful Hyatt Pier 66 
+Business Card Exchange After Work[/b] 
+
+[b]Thursday, October 16th
+5:30pm-8:00pm[/b] 
+ 
+[b]Hyatt Regency Pier Sixty-Six[/b]
+In The New Hotel Lounge
+2301 SE. 17th Street Cswy. 
+Fort Lauderdale
+
+Come network with other local Business &amp; Professionals on a business level after work. 
+Cost is $10 and includes one drink and great appetizers.
+You won't want to miss this great location for networking in the beautiful Hyatt Pier 66 ...in the hotel lobby bar area
+
+~ Bring Plenty of Your Business Cards ~ 
+What is a Biz to Biz Networking? 
+An opportunity for local businesses to network with each other on a business level and to interact with each other on a social level.
+
+Everyone is welcome. No Membership
+Bring a friend and introduce them to Biz to Biz Networking Events
+
+View Photos Here[url=http://www.floridaeventphotos.com/biztobiz/]View Biz to Biz Networking Photos Here[/url]
+
+For More Info: Call 954-838-9644 
+
+www.biztobiznetworking.com
+[url=http://www.biztobiznetworking.com]Biz To Biz Networking[/url]</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/1/2/global_3327858.jpeg</photo_url><updated>Sat Sep 27 09:59:33 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Networking at the Hyatt Pier 66</name></item><item><lon>-80.30999755859375</lon><rsvpcount>2</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Fri Oct 17 18:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8801845</event_url><attendee_count>0</attendee_count><id>8801845</id><venue_lon /><fee>10.0</fee><venue_name /><venue_lat /><description>[b]Join The Fun Every Friday Night - Tennis Under the Stars[/b]
+Meet - Play - Compete Have Fun - Socialize 
+With Other Tennis Players
+
+Meet new friends on the Courts!!! 
+
+[b]Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin[/b] 
+
+From 6:30 - 9:00 PM
+
+
+[b]Frank Veltri Tennis Center 
+Plantation Central Park[/b] 
+9109 NW.2nd St. in Plantation 
+(just West of Pine Island Rd. off Broward Blvd.)
+
+
+Join The Fun ...Every Friday Night at Central Park 
+
+For over 21 years, Single Living has provided opportunities for singles in the South Florida area to meet for tennis events and social activities year around. Social tennis is our main focus. 
+The level of players are 3.5 and above. 
+(competitive level) ...Sorry, no beginners. 
+(Please be at the court by 6:45pm to sign in) 
+
+Come Join Us for a Fun Evening 
+
+[b]Playing Competitive Tennis (3.5) Level[/b]
+
+There will be refreshments served after tennis
+
+Tennis balls are included. Cost is $10 per person
+
+This is a great way to meet new friends and play mixed-doubles tennis.
+
+For More Info: Call 845-9537 or 
+[b]Plantation Central Park Tennis Courts[/b] at 954-452-2530
+ 
+Meet new friends on the Courts!!!  
+
+Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin 
+
+From 7-10 PM</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/7/3/e/global_2855950.jpeg</photo_url><updated>Sat Oct 04 11:02:54 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Friday Night Tennis - Round Robin</name></item><item><lon>-80.30999755859375</lon><rsvpcount>3</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Tue Oct 21 17:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8844228</event_url><attendee_count>0</attendee_count><id>8844228</id><venue_lon>-80.103480</venue_lon><fee>10.0</fee><venue_name>Embassy Suites on PGA Blvd.</venue_name><venue_lat>26.838480</venue_lat><description>Join us for Networking at the Beautiful Embassy Suites Hotel - PGA 
+Business Card Exchange After Work 
+
+Tuesday, October 21st 
+5:30pm-8:00pm 
+Embassy Suites Hotel 
+In The Zia Restaurant &amp; Lounge 
+4350 PGA Blvd. 
+Palm Beach Gardens 
+Fort Lauderdale
+
+Interstate 95 North to exit 79b- PGA Blvd. West . 
+Interstate 95 South to exit 79-PGA. 
+Florida Turnpike- exit 109 (Palm Beach Gardens) east 1 mile.
+
+Come network with other local Business &amp; Professionals on a business level after work. 
+Cost is $10 and includes great appetizers and discounted drinks. 
+
+You won't want to miss this great location for networking in the beautiful Embassy Suites Hotel. There will a table setup for your brochures, flyers and business cards.
+
+~ Bring Plenty of Your Business Cards ~ 
+What is a Biz to Biz Networking? 
+An opportunity for local businesses to network with each 
+other on a business level and to interact with each other on a social level.
+
+Everyone is welcome. No Membership 
+Bring a friend and introduce them to Biz to Biz Networking Events
+
+
+For More Info: Call 954-838-9644 
+www.biztobiznetworking.com 
+Biz To Biz Networking</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/1/2/global_3327858.jpeg</photo_url><updated>Sat Sep 27 10:03:20 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Palm Beach Gardens Networking at the Embassy Suites</name></item><item><lon>-80.30999755859375</lon><rsvpcount>3</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Fri Oct 24 18:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8801849</event_url><attendee_count>0</attendee_count><id>8801849</id><venue_lon /><fee>10.0</fee><venue_name /><venue_lat /><description>[b]Join The Fun Every Friday Night - Tennis Under the Stars[/b]
+Meet - Play - Compete Have Fun - Socialize 
+With Other Tennis Players
+
+Meet new friends on the Courts!!! 
+
+[b]Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin[/b] 
+
+From 6:30 - 9:00 PM
+
+
+[b]Frank Veltri Tennis Center 
+Plantation Central Park[/b] 
+9109 NW.2nd St. in Plantation 
+(just West of Pine Island Rd. off Broward Blvd.)
+
+
+Join The Fun ...Every Friday Night at Central Park 
+
+For over 21 years, Single Living has provided opportunities for singles in the South Florida area to meet for tennis events and social activities year around. Social tennis is our main focus. 
+The level of players are 3.5 and above. 
+(competitive level) ...Sorry, no beginners. 
+(Please be at the court by 6:45pm to sign in) 
+
+Come Join Us for a Fun Evening 
+
+[b]Playing Competitive Tennis (3.5) Level[/b]
+
+There will be refreshments served after tennis
+
+Tennis balls are included. Cost is $10 per person
+
+This is a great way to meet new friends and play mixed-doubles tennis.
+
+For More Info: Call 845-9537 or 
+[b]Plantation Central Park Tennis Courts[/b] at 954-452-2530
+ 
+Meet new friends on the Courts!!!  
+
+Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin 
+
+From 7-10 PM</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/7/3/e/global_2855950.jpeg</photo_url><updated>Sat Oct 04 11:03:21 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Friday Night Tennis - Round Robin</name></item><item><lon>-80.30999755859375</lon><rsvpcount>33</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Fri Oct 31 19:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8377519</event_url><attendee_count>0</attendee_count><id>8377519</id><venue_lon /><fee>35.0</fee><venue_name /><venue_lat /><description>[b][color=red]Let's Go Cruisin' South Florida Style[/color]
+HALLOWEEN CRUISE ON THE INTRACOASTAL
+Join Hundreds of South Florida Singles for a cruise on the Intracoastal
+Aboard The 200ft. Musette Yacht - Intracoastal and New River in Ft Lauderdale
+
+[b]Friday, October 31st from 7pm - 10pm[/b]
+Boarding at 6:30pm
+
+Free Parking, DJ, Hors D'Oeuvres, cash bars, Ice Breaker 
+and prize raffles and Costume Contest- $300 in cash prizes!
+
+[b]Make Your Reservations Early![/b]   Space is Limited
+
+[color=red][b]
+$35 per person - If Paid before October 29th~
+$40 per person - after October 29th 
+$45 day of Cruise[/b][/color]
+ 
+[b]Reserve Here:  http://www.sfsingleliving.com/singlescruise.htm[/b]
+You must pay online 
+Once you have make your reservations, you will email confirmation and directions to the boat
+
+Directions: 95 - Broward Blvd - East - SE 3rd Ave - go right - over bridge - SE 6th St - go left -
+take next left - see courthouse garage. 
+Go left into garage. Someone will be there to direct everyone to the boat. 
+MAKE YOUR RESERVATION BY CLICKING HERE:
+[url=http://www.sfsingleliving.com/singlescruise.htm]South Florida Singles Living [/url][/b]</description><photo_url>http://photos1.meetupstatic.com/photos/event/6/f/f/global_5707791.jpeg</photo_url><updated>Tue Sep 30 20:32:00 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Halloween Cruise on the Intracoastal - October 31st</name></item><item><lon>-80.30999755859375</lon><rsvpcount>1</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Fri Nov 07 18:30:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8894900</event_url><attendee_count>0</attendee_count><id>8894900</id><venue_lon /><fee>10.0</fee><venue_name /><venue_lat /><description>[b]Join The Fun Every Friday Night - Tennis Under the Stars[/b]
+Meet - Play - Compete Have Fun - Socialize 
+With Other Tennis Players
+
+Meet new friends on the Courts!!! 
+
+[b]Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin[/b] 
+
+From 6:30 - 9:00 PM
+
+
+[b]Frank Veltri Tennis Center 
+Plantation Central Park[/b] 
+9109 NW.2nd St. in Plantation 
+(just West of Pine Island Rd. off Broward Blvd.)
+
+
+Join The Fun ...Every Friday Night at Central Park 
+
+For over 21 years, Single Living has provided opportunities for singles in the South Florida area to meet for tennis events and social activities year around. Social tennis is our main focus. 
+The level of players are 3.5 and above. 
+(competitive level) ...Sorry, no beginners. 
+(Please be at the court by 6:45pm to sign in) 
+
+Come Join Us for a Fun Evening 
+
+[b]Playing Competitive Tennis (3.5) Level[/b]
+
+There will be refreshments served after tennis
+
+Tennis balls are included. Cost is $10 per person
+
+This is a great way to meet new friends and play mixed-doubles tennis.
+
+For More Info: Call 845-9537 or 
+[b]Plantation Central Park Tennis Courts[/b] at 954-452-2530
+ 
+Meet new friends on the Courts!!!  
+
+Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin 
+
+From 7-10 PM</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/7/3/e/global_2855950.jpeg</photo_url><updated>Sat Oct 04 11:06:42 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Friday Night Tennis - Round Robin</name></item><item><lon>-80.30999755859375</lon><rsvpcount>1</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Fri Nov 14 18:30:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8894903</event_url><attendee_count>0</attendee_count><id>8894903</id><venue_lon /><fee>10.0</fee><venue_name /><venue_lat /><description>[b]Join The Fun Every Friday Night - Tennis Under the Stars[/b]
+Meet - Play - Compete Have Fun - Socialize 
+With Other Tennis Players
+
+Meet new friends on the Courts!!! 
+
+[b]Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin[/b] 
+
+From 6:30 - 9:00 PM
+
+
+[b]Frank Veltri Tennis Center 
+Plantation Central Park[/b] 
+9109 NW.2nd St. in Plantation 
+(just West of Pine Island Rd. off Broward Blvd.)
+
+
+Join The Fun ...Every Friday Night at Central Park 
+
+For over 21 years, Single Living has provided opportunities for singles in the South Florida area to meet for tennis events and social activities year around. Social tennis is our main focus. 
+The level of players are 3.5 and above. 
+(competitive level) ...Sorry, no beginners. 
+(Please be at the court by 6:45pm to sign in) 
+
+Come Join Us for a Fun Evening 
+
+[b]Playing Competitive Tennis (3.5) Level[/b]
+
+There will be refreshments served after tennis
+
+Tennis balls are included. Cost is $10 per person
+
+This is a great way to meet new friends and play mixed-doubles tennis.
+
+For More Info: Call 845-9537 or 
+[b]Plantation Central Park Tennis Courts[/b] at 954-452-2530
+ 
+Meet new friends on the Courts!!!  
+
+Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin 
+
+From 7-10 PM</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/7/3/e/global_2855950.jpeg</photo_url><updated>Sat Oct 04 11:07:23 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Friday Night Tennis - Round Robin</name></item><item><lon>-80.30999755859375</lon><rsvpcount>1</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Fri Nov 21 18:30:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8894906</event_url><attendee_count>0</attendee_count><id>8894906</id><venue_lon /><fee>10.0</fee><venue_name /><venue_lat /><description>[b]Join The Fun Every Friday Night - Tennis Under the Stars[/b]
+Meet - Play - Compete Have Fun - Socialize 
+With Other Tennis Players
+
+Meet new friends on the Courts!!! 
+
+[b]Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin[/b] 
+
+From 6:30 - 9:00 PM
+
+
+[b]Frank Veltri Tennis Center 
+Plantation Central Park[/b] 
+9109 NW.2nd St. in Plantation 
+(just West of Pine Island Rd. off Broward Blvd.)
+
+
+Join The Fun ...Every Friday Night at Central Park 
+
+For over 21 years, Single Living has provided opportunities for singles in the South Florida area to meet for tennis events and social activities year around. Social tennis is our main focus. 
+The level of players are 3.5 and above. 
+(competitive level) ...Sorry, no beginners. 
+(Please be at the court by 6:45pm to sign in) 
+
+Come Join Us for a Fun Evening 
+
+[b]Playing Competitive Tennis (3.5) Level[/b]
+
+There will be refreshments served after tennis
+
+Tennis balls are included. Cost is $10 per person
+
+This is a great way to meet new friends and play mixed-doubles tennis.
+
+For More Info: Call 845-9537 or 
+[b]Plantation Central Park Tennis Courts[/b] at 954-452-2530
+ 
+Meet new friends on the Courts!!!  
+
+Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin 
+
+From 7-10 PM</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/7/3/e/global_2855950.jpeg</photo_url><updated>Sat Oct 04 11:08:00 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Friday Night Tennis - Round Robin</name></item><item><lon>-80.30999755859375</lon><rsvpcount>1</rsvpcount><group_name>South Florida Single Living Events</group_name><lat>26.15999984741211</lat><feecurrency>USD</feecurrency><time>Fri Nov 28 18:30:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://singles.meetup.com/477/calendar/8894932</event_url><attendee_count>0</attendee_count><id>8894932</id><venue_lon /><fee>10.0</fee><venue_name /><venue_lat /><description>[b]Join The Fun Every Friday Night - Tennis Under the Stars[/b]
+Meet - Play - Compete Have Fun - Socialize 
+With Other Tennis Players
+
+Meet new friends on the Courts!!! 
+
+[b]Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin[/b] 
+
+From 6:30 - 9:00 PM
+
+
+[b]Frank Veltri Tennis Center 
+Plantation Central Park[/b] 
+9109 NW.2nd St. in Plantation 
+(just West of Pine Island Rd. off Broward Blvd.)
+
+
+Join The Fun ...Every Friday Night at Central Park 
+
+For over 21 years, Single Living has provided opportunities for singles in the South Florida area to meet for tennis events and social activities year around. Social tennis is our main focus. 
+The level of players are 3.5 and above. 
+(competitive level) ...Sorry, no beginners. 
+(Please be at the court by 6:45pm to sign in) 
+
+Come Join Us for a Fun Evening 
+
+[b]Playing Competitive Tennis (3.5) Level[/b]
+
+There will be refreshments served after tennis
+
+Tennis balls are included. Cost is $10 per person
+
+This is a great way to meet new friends and play mixed-doubles tennis.
+
+For More Info: Call 845-9537 or 
+[b]Plantation Central Park Tennis Courts[/b] at 954-452-2530
+ 
+Meet new friends on the Courts!!!  
+
+Every Friday Night 
+Social Tennis Mixed Doubles/ Robin Robin 
+
+From 7-10 PM</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/7/3/e/global_2855950.jpeg</photo_url><updated>Sat Oct 04 11:09:01 EDT 2008</updated><feedesc>per person</feedesc><questions /><name>Friday Night Tennis - Round Robin- Work Your Turkey Off!!</name></item></items></results>

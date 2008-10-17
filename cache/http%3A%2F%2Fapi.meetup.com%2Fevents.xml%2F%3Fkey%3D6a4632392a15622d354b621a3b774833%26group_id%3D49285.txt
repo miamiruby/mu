@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>5</count><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=49285&amp;page=200&amp;format=xml&amp;offset=0</url><lat /><id /><description>API method for accessing meetup events</description><total_count>5</total_count><title>Meetup Events</title><lon /><next /><method>Events</method><updated>Sat Oct 11 12:07:15 EDT 2008</updated><link>http://api.meetup.com/events/</link></head><items><item><lon>-80.19000244140625</lon><rsvpcount>0</rsvpcount><group_name>South Florida Dreamweaver Meetup Group</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Oct 18 14:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://dreamweaver.meetup.com/41/calendar/8750946</event_url><attendee_count>0</attendee_count><id>8750946</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Facebook: http://www.facebook.com/profile.php?id=726976215
+
+Need a Job? http://miamiwebjobs.com
+
+Email: paul@miamiphp.org
+
+If your going to attend please call me as I will be upstairs so you need to call from downstairs to be let in. Paul
+561-213-3854</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/d/7/global_4918055.jpeg</photo_url><updated>Sat Sep 13 15:07:43 EDT 2008</updated><feedesc /><questions /><name>South Florida Dreamweaver Meetup</name></item><item><lon>-80.19000244140625</lon><rsvpcount>0</rsvpcount><group_name>South Florida Dreamweaver Meetup Group</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Oct 25 14:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://dreamweaver.meetup.com/41/calendar/8797539</event_url><attendee_count>0</attendee_count><id>8797539</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Facebook: http://www.facebook.com/profile.php?id=726976215
+
+Need a Job? http://miamiwebjobs.com
+
+Email: paul@miamiphp.org
+
+If your going to attend please call me as I will be upstairs so you need to call from downstairs to be let in. Paul
+561-213-3854</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/d/7/global_4918055.jpeg</photo_url><updated>Sat Sep 20 15:07:56 EDT 2008</updated><feedesc /><questions /><name>South Florida Dreamweaver Meetup</name></item><item><lon>-80.19000244140625</lon><rsvpcount>0</rsvpcount><group_name>South Florida Dreamweaver Meetup Group</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Nov 01 14:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://dreamweaver.meetup.com/41/calendar/8845849</event_url><attendee_count>0</attendee_count><id>8845849</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Facebook: http://www.facebook.com/profile.php?id=726976215
+
+Need a Job? http://miamiwebjobs.com
+
+Email: paul@miamiphp.org
+
+If your going to attend please call me as I will be upstairs so you need to call from downstairs to be let in. Paul
+561-213-3854</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/d/7/global_4918055.jpeg</photo_url><updated>Sat Sep 27 15:12:45 EDT 2008</updated><feedesc /><questions /><name>South Florida Dreamweaver Meetup</name></item><item><lon>-80.19000244140625</lon><rsvpcount>0</rsvpcount><group_name>South Florida Dreamweaver Meetup Group</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Nov 08 14:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://dreamweaver.meetup.com/41/calendar/8896475</event_url><attendee_count>0</attendee_count><id>8896475</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Facebook: http://www.facebook.com/profile.php?id=726976215
+
+Need a Job? http://miamiwebjobs.com
+
+Email: paul@miamiphp.org
+
+If your going to attend please call me as I will be upstairs so you need to call from downstairs to be let in. Paul
+561-213-3854</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/d/7/global_4918055.jpeg</photo_url><updated>Sat Oct 04 15:08:23 EDT 2008</updated><feedesc /><questions /><name>South Florida Dreamweaver Meetup</name></item><item><lon>-80.19000244140625</lon><rsvpcount>0</rsvpcount><group_name>South Florida Dreamweaver Meetup Group</group_name><lat>25.780000686645508</lat><feecurrency>USD</feecurrency><time>Sat Nov 15 14:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://dreamweaver.meetup.com/41/calendar/8942472</event_url><attendee_count>0</attendee_count><id>8942472</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Facebook: http://www.facebook.com/profile.php?id=726976215
+
+Need a Job? http://miamiwebjobs.com
+
+Email: paul@miamiphp.org
+
+If your going to attend please call me as I will be upstairs so you need to call from downstairs to be let in. Paul
+561-213-3854</description><photo_url>http://photos1.meetupstatic.com/photos/event/f/d/7/global_4918055.jpeg</photo_url><updated>Sat Oct 11 12:07:15 EDT 2008</updated><feedesc /><questions /><name>South Florida Dreamweaver Meetup</name></item></items></results>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<results><head><count>10</count><total_count>10</total_count><id /><method>Events</method><url>http://api.meetup.com/events/?order=time&amp;radius=25&amp;key=6a4632392a15622d354b621a3b774833&amp;group_id=1102404&amp;page=200&amp;format=xml&amp;offset=0</url><title>Meetup Events</title><link>http://api.meetup.com/events/</link><lon /><next /><lat /><updated>Tue Oct 14 20:36:04 EDT 2008</updated><description>API method for accessing meetup events</description></head><items><item><lon>-80.22000122070312</lon><rsvpcount>6</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency>USD</feecurrency><time>Sat Oct 25 18:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8945532</event_url><attendee_count>0</attendee_count><id>8945532</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>This infamous South Florida gathering actually starts @ 10am, but we're not getting there till much later:
+
+http://tatescomics.com/Pages/specialevents.html</description><photo_url /><updated>Sat Oct 11 23:17:59 EDT 2008</updated><feedesc /><questions /><name>TATE'S Annual Halloween Special Event</name></item><item><lon>-80.22000122070312</lon><rsvpcount>5</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency /><time>Sat Oct 25 21:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8945560</event_url><attendee_count>0</attendee_count><id>8945560</id><venue_lon>-80.257225</venue_lon><fee>0.0</fee><venue_name>Laser Quest</venue_name><venue_lat>26.151681</venue_lat><description>We had so much fun last time, we're going to do it again.
+
+If Robyn and Barney can have this much, why can't you?
+
+Hot from its revival during the show "How I Met Your Mother", the South Florida Social Geeks going to play Laser Tag.</description><photo_url>http://photos1.meetupstatic.com/photos/event/6/9/1/global_5125681.jpeg</photo_url><updated>Sat Oct 11 23:22:34 EDT 2008</updated><feedesc /><questions /><name>Laser Tag</name></item><item><lon>-80.22000122070312</lon><rsvpcount>2</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency /><time>Thu Oct 30 19:30:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8963399</event_url><attendee_count>0</attendee_count><id>8963399</id><venue_lon>-80.116490</venue_lon><fee>0.0</fee><venue_name>Culture Room</venue_name><venue_lat>26.166388</venue_lat><description>Want to do something different on a Thursday night?
+
+How about joining me to go see [url=http://www.reverendhortonheat.com/]Reverend Horton Heat[/url]?  They are a great punkabilly band.
+
+"Undeniably, The Reverend Horton Heat, aka Jim Heath, is the biggest, baddest, grittiest, greasiest, greatest rocker that ever piled his hair up and pounded the drinks down...It's been an almost 20-year journey for Heath, whose country-flavored punkabilly and onstage antics have brought him and his band a strikingly diverse fan base and a devoted cult following, not to mention the respect of fellow musicians worldwide."
+
+Tickets are $25.  
+
+Order them through [url=http://www.ticketmaster.com/event/0D00409591ED36DD?artistid=769325&amp;majorcatid=10001&amp;minorcatid=1]Ticketmaster[/url].</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/3/2/e/global_5878910.jpeg</photo_url><updated>Tue Oct 14 20:36:04 EDT 2008</updated><feedesc /><questions /><name>Punkabilly Concert: Reverend Horton Heat</name></item><item><lon>-80.22000122070312</lon><rsvpcount>1</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency /><time>Fri Oct 31 23:45:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8960816</event_url><attendee_count>0</attendee_count><id>8960816</id><venue_lon>-80.138470</venue_lon><fee>0.0</fee><venue_name>Cinema Paradiso</venue_name><venue_lat>26.114862</venue_lat><description>Halloween at Cinema Paradiso
+
+New and Classic Films all night, plus Rocky Horror Picture show at mindinght</description><photo_url>http://photos1.meetupstatic.com/photos/event/3/c/b/global_5874971.jpeg</photo_url><updated>Tue Oct 14 14:42:06 EDT 2008</updated><feedesc /><questions /><name>Rocky Horror Picture Show </name></item><item><lon>-80.22000122070312</lon><rsvpcount>2</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency /><time>Sat Nov 01 10:00:00 EDT 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8945612</event_url><attendee_count>0</attendee_count><id>8945612</id><venue_lon>-80.189041</venue_lon><fee>0.0</fee><venue_name>Hilton Downtown Miami</venue_name><venue_lat>25.790549</venue_lat><description>I'm sure I'm going to be WAAAY out of my element, but I'm betting that this will interest a lot of you.
+
+Check here for all the info:
+
+http://www.animesupercon.com/index.html
+
+Carpooling available upon request.  Meeting time and location TBA...</description><photo_url>http://photos1.meetupstatic.com/photos/event/1/5/d/c/global_5831596.jpeg</photo_url><updated>Sat Oct 11 23:37:48 EDT 2008</updated><feedesc /><questions /><name>Anime SuperCon</name></item><item><lon>-80.22000122070312</lon><rsvpcount>2</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency>USD</feecurrency><time>Sun Nov 02 17:45:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8960835</event_url><attendee_count>0</attendee_count><id>8960835</id><venue_lon>-80.138470</venue_lon><fee>0.0</fee><venue_name>Cinema Paradiso</venue_name><venue_lat>26.114862</venue_lat><description>Part of FLIFF's Sunshine Celluloid, Presented by Film Florida
+Special Guests Corey and Susie Feldman
+
+A well driller unearths a strange substance that changes the lives of everyone in the small town of Montverde. Townsfolk are unaware as they are exposed to the primordial virus. The illness alters each victim's deepest instincts for survival and reverses their sense of pain and pleasure. Fear takes hold as love becomes hate with bloody consequences. As university researchers fall ill an opportunity for profiteers brings more danger to the small town. A handful of survivors must fight more than just the disease to stay alive.
+
+The first time Jozef Lenders was handed a movie camera as a youngster he knew his future was in film. Born in the Netherlands, Jozef immigrated to America with his parents, learning English and becoming a US Citizen as a child. An avid photographer and filmmaker as a teen, he studied broadcasting in college. After several years in radio and working with the music industry, he founded his first video and film production company in 1984. Today Joe is a successful filmmaker, his work spans thousands of TV commercials and hundreds of television programs. “Terror Inside” is his directorial debut in feature films.
+
+http://www.fliff.com/film.asp?filmID=2194&amp;catID=28
+
+General Admission $9.00 | Seniors and Students $7.00 | FLIFF Members $5.00
+- Don't forget to order your tickets ahead of time, and early.</description><photo_url>http://photos1.meetupstatic.com/photos/event/4/7/e/global_5875150.jpeg</photo_url><updated>Tue Oct 14 15:03:16 EDT 2008</updated><feedesc /><questions /><name>Ft. Lauderdale Film Festival: TERROR INSIDE</name></item><item><lon>-80.22000122070312</lon><rsvpcount>1</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency>USD</feecurrency><time>Fri Nov 07 21:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8960862</event_url><attendee_count>0</attendee_count><id>8960862</id><venue_lon>-80.138470</venue_lon><fee>0.0</fee><venue_name>Cinema Paradiso</venue_name><venue_lat>26.114862</venue_lat><description>Special Guests - Brandon Routh (2006's Superman) plus other cast members
+
+An After Film Party follows at Automatic Slims, FREE drink with ticket
+
+By all appearances, Sam and Mason are the picture perfect couple: young, attractive, successful and madly in love. At her sister's idyllic spring wedding, Sam finds herself irresistibly drawn back into the arms of her dashing ex-boyfriend. Meanwhile, Mason barely thwarts the flirtatious advances of his best friend's 18 year-old sister. But when Sam confesses her affair, Mason's reaction is not quite what you would expect. So begins "Fling", a lively, sexy and provocative exploration of young adults navigating the hazards of an open relationship.
+
+General Admission $9.00 | Seniors and Students $7.00 | FLIFF Members $5.00 
+
+http://www.fliff.com/film.asp?filmID=2185&amp;catID=28
+
+- Get your tickets early...</description><photo_url>http://photos1.meetupstatic.com/photos/event/4/7/e/global_5875150.jpeg</photo_url><updated>Tue Oct 14 15:02:12 EDT 2008</updated><feedesc /><questions /><name>Ft. Lauderdale Film Festival: FLING (AKA LIE TO ME)</name></item><item><lon>-80.22000122070312</lon><rsvpcount>0</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency /><time>Mon Nov 10 19:30:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8960888</event_url><attendee_count>0</attendee_count><id>8960888</id><venue_lon>-80.138470</venue_lon><fee>0.0</fee><venue_name>Cinema Paradiso</venue_name><venue_lat>26.114862</venue_lat><description>Top Gun
+
+(On the street, outside Cinema Paradiso)</description><photo_url>http://photos1.meetupstatic.com/photos/event/4/2/0/global_5875056.jpeg</photo_url><updated>Tue Oct 14 14:53:00 EDT 2008</updated><feedesc /><questions /><name>Ft. Lauderdale Film Festival: Top Gun (Veteran's Day kick-off)</name></item><item><lon>-80.22000122070312</lon><rsvpcount>2</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency /><time>Sat Nov 15 20:00:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8945655</event_url><attendee_count>0</attendee_count><id>8945655</id><venue_lon>-80.173863</venue_lon><fee>0.0</fee><venue_name>New York Comedy Club</venue_name><venue_lat>26.368403</venue_lat><description>Michael Winslow from the POLICE ACADEMY movies invites you to join him in this live performance of his own inimitable sound-effect comedy. Jet planes, dogs barking, and feet splashing are just a few of the thousands of sounds Michael is capable of, so get ready to enjoy a night of stand up comedy like you've never seen (or heard!) before. 
+
+Tickets: $15</description><photo_url /><updated>Sat Oct 11 23:55:20 EDT 2008</updated><feedesc /><questions /><name>MICHAEL WINSLOW: New York Comedy Club</name></item><item><lon>-80.22000122070312</lon><rsvpcount>1</rsvpcount><group_name>South Florida Social Geeks</group_name><lat>26.309999465942383</lat><feecurrency /><time>Sun Nov 23 19:30:00 EST 2008</time><ismeetup>1</ismeetup><event_url>http://geek.meetup.com/11/calendar/8963251</event_url><attendee_count>0</attendee_count><id>8963251</id><venue_lon /><fee>0.0</fee><venue_name /><venue_lat /><description>Join me at my place in Coral Springs (off of Sample, between University and 441) to watch the season finales of:
+
+TrueBlood 
+Episode #12: "You'll Be the Death of Me" (season finale)
+
+and 
+
+Entourage
+Episode #66: "Return to Queens Blvd" (season finale)
+
+WARNING (SPOILERS can be found [url=http://www.aintitcool.com/node/38704]here[/url].
+
+It will be pot-luck so everyone must bring something and say what they are bringing in their RSVP.
+
+Since space is limited, no "Maybe" RSVPs allowed.
+
+"YES" RSVPs will be emailed directions 2 days prior to the event.</description><photo_url /><updated>Tue Oct 14 20:21:47 EDT 2008</updated><feedesc /><questions /><name>Season Finales: TrueBlood &amp; Entourage</name></item></items></results>
