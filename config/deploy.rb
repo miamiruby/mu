@@ -9,3 +9,7 @@ set :user, "pkuger"
 set :runner, "root"
 server "cap.speeduneed.com", :app, :web, :db, :primary => true
 
+task: update_config, => [:app] do
+	run "copy -Rf {$/shared_path}/config/* #/{release_path}/config/*"
+end
+after "deploy:update_code", :update_config
