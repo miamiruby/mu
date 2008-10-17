@@ -2,7 +2,7 @@ set :application, "tutorial"
 set :domain, 'webserver'
 
 set :scm, :git
-set :repository, "github.com:miamiphp/mu.git"
+set :repository, "git://github.com:miamiphp/mu.git"
 
 set :deploy_via, :remote_cache
 
