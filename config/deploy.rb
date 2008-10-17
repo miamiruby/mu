@@ -11,4 +11,4 @@ set :deploy_to, "/var/www/vhosts/speeduneed.com/subdomains/cap/httpdocs/"
 ssh_options[:port] = 2221
 set :user, "pkuger"
 ;set :runner, "root"
-
+set :use_sudo, false
